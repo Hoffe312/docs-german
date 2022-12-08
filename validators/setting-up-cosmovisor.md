@@ -1,14 +1,14 @@
-# 🕶 Cosmovisor Setup
+# 🕶 Cosmovisor-Einrichtung
 
-Setting up Cosmovisor is relatively straightforward. However, it does expect certain environment variables and folder structure to be set.
+Die Einrichtung von Cosmovisor ist relativ einfach. Allerdings müssen bestimmte Umgebungsvariablen und Ordnerstrukturen festgelegt werden.
 
-Cosmovisor allows you to download binaries ahead of time for chain upgrades, meaning that you can do zero (or close to zero) downtime chain upgrades. It's also useful if your local timezone means that a chain upgrade will fall at a bad time.
+Cosmovisor ermöglicht es Ihnen, Binärdateien für Chain-Upgrades im Voraus herunterzuladen, was bedeutet, dass Sie Chain-Upgrades ohne (oder fast ohne) Ausfallzeiten durchführen können. Dies ist auch dann nützlich, wenn Ihre lokale Zeitzone bedeutet, dass ein Chain-Upgrade zu einem ungünstigen Zeitpunkt durchgeführt wird.
 
-Rather than having to do stressful ops tasks late at night, it's always better if you can automate them away, and that's what Cosmovisor tries to do.
+Es ist immer besser, wenn Sie diese Aufgaben automatisieren können, als sie spät in der Nacht erledigen zu müssen, und genau das versucht Cosmovisor zu tun.
 
-## Install
+## Installation
 
-First, go and get cosmovisor (recommended approach):
+Holen Sie sich zunächst cosmovisor (empfohlene Vorgehensweise):
 
 ```bash
 go get github.com/cosmos/cosmos-sdk/cosmovisor/cmd/cosmovisor
@@ -24,23 +24,23 @@ go install github.com/cosmos/cosmos-sdk/cosmovisor/cmd/cosmovisor@v1.0.0
 When using cosmovisor, make sure that you do not have auto download of binaries on.
 {% endhint %}
 
-Your installation can be confirmed with:
+Ihre Installation kann mit bestätigt werden:
 
 ```bash
 which cosmovisor
 ```
 
-This will return something like:
+Das Ergebnis ist etwa so:
 
 ```bash
 /home/<your-user>/go/bin/cosmovisor
 ```
 
 {% hint style="info" %}
-Building from source allows you to target a specific version of Cosmovisor, in case you do not want to run 1.0.0 yet.
+Die Erstellung aus dem Quellcode ermöglicht es Ihnen, eine bestimmte Version von Cosmovisor anzusteuern, falls Sie die Version 1.0.0 noch nicht verwenden möchten.
 {% endhint %}
 
-You can also build from source; cosmovisor is in the main `cosmos-sdk` repo on Github, so you can use Git tags to target a specific version. This example uses a tag, `v0.42.7` that refers to the Cosmos SDK, as Cosmovisor-specific tags did not exist before August 2021. The first of these was `cosmovisor/v0.1.0`, and the second is the current release, `cosmovisor/v1.0.0`.
+Sie können auch aus dem Quellcode bauen; Cosmovisor befindet sich in der Hauptversion `cosmos-sdk` auf Github, so dass Sie Git-Tags verwenden können, um eine bestimmte Version zu erreichen. In diesem Beispiel wird das Tag `v0.42.7` verwendet, das sich auf das Cosmos SDK bezieht, da es vor August 2021 keine Cosmovisor-spezifischen Tags gab. Die erste dieser Versionen war `cosmovisor/v0.1.0` und die zweite ist die aktuelle Version, `cosmovisor/v1.0.0`.
 
 ```bash
 git clone https://github.com/cosmos/cosmos-sdk
@@ -51,32 +51,32 @@ export PATH=$PATH:$(go env GO cosmovisor/cosmovisor $GOPATH/bin/cosmovisor
 cd $HOME
 ```
 
-## Add environment variables to your shell
+## Umgebungsvariablen zu Ihrer Shell hinzufügen
 
-In the `.profile` file, usually located at `~/.profile`, add:
+In der Datei `.profile`, die sich normalerweise unter `~/.profile` befindet, fügen Sie hinzu:
 
 ```bash
 export DAEMON_NAME=kujirad
 export DAEMON_HOME=$HOME/.kujira
 ```
 
-Then source your profile to have access to these variables:
+Geben Sie dann Ihr Profil ein, um Zugang zu diesen Variablen zu erhalten:
 
 ```bash
 source ~/.profile
 ```
 
-You can confirm success like so:
+Sie können den Erfolg folgendermaßen bestätigen:
 
 ```
 echo $DAEMON_NAME
 ```
 
-It should return `kujirad`.
+Es sollte `kujirad` zurückgeben.
 
-## Set up folder structure
+## Ordnerstruktur einrichten
 
-Cosmovisor expects a certain folder structure:
+Cosmovisor erwartet eine bestimmte Ordnerstruktur:
 
 ```bash
 .
@@ -90,44 +90,48 @@ Cosmovisor expects a certain folder structure:
             └── $DAEMON_NAME
 ```
 
-Don't worry about `current` - that is simply a symlink used by Cosmovisor. The other folders will need setting up, but this is easy:
+Machen Sie sich keine Sorgen um `current` - das ist einfach ein Symlink, der von Cosmovisor verwendet wird. Die anderen Ordner müssen eingerichtet werden, aber das ist
+einfach:
+
 
 ```bash
 mkdir -p $DAEMON_HOME/cosmovisor/genesis/bin
 mkdir -p $DAEMON_HOME/cosmovisor/upgrades
 ```
 
-## Set up genesis binary
+## Genesis Binary einrichten
 
-Cosmovisor needs to know which binary to use at genesis. We put this in `$DAEMON_HOME/cosmovisor/genesis/bin`.
+Cosmovisor muss wissen, welche Binärdatei bei Genesis zu verwenden ist. Wir legen diese in `$DAEMON_HOME/cosmovisor/genesis/bin` ab.
 
-First, find the location of the binary you want to use:
+Suchen Sie zunächst den Speicherort der zu verwendenden Binärdatei:
+
 
 ```bash
 which kujirad
 ```
 
-Then use the path returned to copy it to the directory Cosmovisor expects. Let's assume the previous command returned `/home/your-user/go/bin/ kujirad`:
+Verwenden Sie dann den zurückgegebenen Pfad, um ihn in das von Cosmovisor erwartete Verzeichnis zu kopieren. Nehmen wir an, dass der vorherige Befehl `/home/your-
+user/go/bin/ kujirad` zurückgegeben hat:
 
 ```bash
 cp /home/<your-user>/go/bin/kujirad $DAEMON_HOME/cosmovisor/genesis/bin
 ```
 
-Once you're done, check the folder structure looks correct using a tool like `tree`.
+Überprüfen Sie anschließend mit einem Tool wie `tree`, ob die Ordnerstruktur korrekt aussieht.
 
-## Set up service
+## Service einrichten
 
-Commands sent to Cosmovisor are sent to the underlying binary. For example, `cosmovisor version` is the same as typing `kujirad version`.
+An Cosmovisor gesendete Befehle werden an die zugrunde liegende Binärdatei gesendet. So ist beispielsweise die Eingabe von "Cosmovisor Version" dasselbe wie die Eingabe von "Kujirad Version".
 
-Nevertheless, just as we would manage `kujirad` using a process manager, we would like to make sure Cosmovisor is automatically restarted if something happens, for example an error or reboot.
+Genauso wie wir `kujirad` mit einem Prozessmanager verwalten würden, möchten wir sicherstellen, dass Cosmovisor automatisch neu gestartet wird, wenn etwas passiert, zum Beispiel ein Fehler oder ein Neustart.
 
-First, create the service file:
+Erstellen Sie zunächst die Servicedatei:
 
 ```bash
 sudo nano /etc/systemd/system/cosmovisor.service
 ```
 
-Change the contents of the below to match your setup - `cosmovisor` is likely at `~/go/bin/cosmovisor` regardless of which installation path you took above, but it's worth checking.
+Ändern Sie den Inhalt der untenstehenden Datei, um sie an Ihr Setup anzupassen - `cosmovisor` befindet sich wahrscheinlich unter `~/go/bin/cosmovisor`, unabhängig davon, welchen Installationspfad Sie oben gewählt haben, aber es lohnt sich, das zu überprüfen.
 
 ```
 [Unit]
@@ -146,25 +150,26 @@ Environment="DAEMON_ALLOW_DOWNLOAD_BINARIES=false"
 Environment="DAEMON_RESTART_AFTER_UPGRADE=true"
 Environment="DAEMON_LOG_BUFFER_SIZE=512"
 
-[Install]
+[Installation]
 WantedBy=multi-user.target
 ```
 
 {% hint style="info" %}
-A description of what the environment variables do can be found [here](https://docs.cosmos.network/master/run-node/cosmovisor.html). Change them depending on your setup.
+Eine Beschreibung, was die Umgebungsvariablen bewirken, finden Sie [hier](https://docs.cosmos.network/master/run-node/cosmovisor.html). Ändern Sie sie je nach Ihren Einstellungen.
 {% endhint %}
 
-Note also that we set buffer size explicitly because of a [live bug in Cosmovisor](https://github.com/cosmos/cosmos-sdk/pull/8590) before version `v1.0.0`. If you are using `v1.0.0`, you may omit that line.
+Beachten Sie auch, dass wir die Puffergröße aufgrund eines [Live-Bugs in Cosmovisor] (https://github.com/cosmos/cosmos-sdk/pull/8590) vor Version `v1.0.0` explizit
+festlegen. Wenn Sie `v1.0.0` verwenden, können Sie diese Zeile weglassen.
 
-In addition, the same issue can be fixed by reducing the log via env variable. If you are unsure, ask on Discord.
+Darüber hinaus kann das gleiche Problem behoben werden, indem das Protokoll über die env-Variable reduziert wird. Wenn Sie unsicher sind, fragen Sie auf Discord.
 
-## Start Cosmovisor
+## Cosmovisor starten
 
 {% hint style="warning" %}
-If syncing from a snapshot, do not start Cosmovisor yet.
+Wenn Sie von einem Snapshot synchronisieren, starten Sie Cosmovisor noch nicht.
 {% endhint %}
 
-Finally, enable the service and start it.
+Aktivieren Sie schließlich den Dienst und starten Sie ihn.
 
 ```bash
 sudo -S systemctl daemon-reload
@@ -172,13 +177,13 @@ sudo -S systemctl enable cosmovisor
 sudo systemctl start cosmovisor
 ```
 
-Check it is running using:
+Prüfen Sie, ob es läuft:
 
 ```
 sudo systemctl status cosmovisor
 ```
 
-If you need to monitor the service after launch, you can view the logs using:
+Wenn Sie den Dienst nach dem Start überwachen müssen, können Sie die Protokolle mit anzeigen:
 
 ```bash
 sudo journalctl -u cosmovisor -f
