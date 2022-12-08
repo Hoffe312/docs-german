@@ -1,13 +1,13 @@
-# 🥇 KUJI Tiers
+# 🥇 KUJI Stufen
 
-On BLUE, FIN, and ORCA, there are icons at the top right corner of each app:  <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">&#x20;
+Auf BLUE, FIN und ORCA gibt es Symbole in der oberen rechten Ecke jeder App:  <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">&#x20;
 
-The symbols light up corresponding to the amount of KUJI a user with a connected wallet has staked in total across all Kujira validators on Kujira mainnet.
+Die Symbole leuchten entsprechend der Menge an KUJI auf, die ein Benutzer mit einer verbundenen Wallet insgesamt auf allen Kujira-Validatoren im Kujira Mainnet gestaked hat.
 
-The first KUJI staking tier to light up the leftmost symbol is 500 KUJI.
+Die erste Stufe des KUJI-Stakes, bei der das Symbol ganz links aufleuchtet, beträgt 500 KUJI.
 
-The second KUJI staking tier to light up the middle symbol is 5000 KUJI.
+Die zweite Stufe des KUJI-Stakes für das Aufleuchten des mittleren Symbols beträgt 5000 KUJI.
 
-The third KUJI staking tier to light up the rightmost symbol is 50000 KUJI.
+Die dritte Stufe des KUJI-Stakes für das Aufleuchten des Symbols ganz rechts beträgt 50000 KUJI.
 
-What significance do these symbols have? And will any other symbols appear? To be continued...&#x20;
+Welche Bedeutung haben diese Symbole? Und werden weitere Symbole erscheinen? Fortsetzung folgt...&#x20;
