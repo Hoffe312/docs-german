@@ -1,8 +1,8 @@
-# 🗒 Tips
+# 🗒 Tipps
 
-### Disk utilization
+### Festplattennutzung
 
-To help manage the disk size you can prune the blocks being kept. For this I use prime numbers- pick your own in `app.toml`
+Um die Festplattengröße zu verwalten, können Sie die beibehaltenen Blöcke prunen. Hierfür verwende ich Primzahlen - wählen Sie Ihre eigenen in "app.toml".
 
 ```
 pruning = "custom"
@@ -13,22 +13,22 @@ pruning-keep-every = "0"
 pruning-interval = "43"
 ```
 
-You should also check what you are indexing
+Sie sollten auch überprüfen, was Sie indizieren
 
 ```
 index-events = ["tx.hash", "tx.height"]
 ```
 
-### Adding more peers
+### Hinzufügen weiterer Peers
 
-You should modify `/etc/security/limits.conf` and add
+Sie sollten `/etc/security/limits.conf` ändern und Folgendes hinzufügen
 
 ```
 *                soft    nofile          65535
 *                hard    nofile          65535
 ```
 
-You can then modify the config.toml to increase connections. This may cost you more in ingress/egress charges.
+Sie können dann die config.toml ändern, um die Anzahl der Verbindungen zu erhöhen. Dies kann zu einer Erhöhung der Ingress/Egress-Gebühren führen.
 
 ```
 max_open_connections = 1900
