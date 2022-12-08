@@ -1,10 +1,10 @@
-# 🚢 Shipping Lane
+# 🚢 Versandspur
 
-### Overview
+### Übersicht
 
-Every now and then people need a helping hand navigating the treacherous seas of decentralized finance so they can coexist peacefully with the giant whales 🐋 and other sea life lurking beneath the surface. As we help steer the Kujira community through saccharine and bitter times alike, we guide our constituents through our safe yet bombastic shipping lane. Detailed below are the past events and landmarks along our long, long shipping lane as we take our stand on shipping, payments, and commerce.
+Hin und wieder brauchen Menschen eine helfende Hand, um die tückische See der dezentralisierten Finanzen zu navigieren, damit sie friedlich mit den Riesenwalen 🐋 und anderen Meeresbewohnern, die unter der Oberfläche lauern, koexistieren können. Während wir die Kujira-Gemeinschaft durch zuckersüße und bittere Zeiten gleichermaßen steuern, führen wir unsere Wähler durch unser sicheres und doch bombastisches Fahrwasser. Im Folgenden finden Sie die vergangenen Ereignisse und Meilensteine entlang unserer langen, langen Schifffahrtsroute, während wir unseren Standpunkt zu Schifffahrt, Zahlungen und Handel einnehmen.
 
-Here is the monthly Kujira Shipping Lane since inception:
+Hier ist die monatliche Kujira Shipping Lane seit ihrer Gründung:
 
 ## 2021
 
