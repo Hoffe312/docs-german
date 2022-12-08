@@ -1,12 +1,12 @@
-# 💸 Staking Rewards
+# 💸 Staking Belohnungen
 
-For a general overview about staking, please navigate [here](../governance/staking/).&#x20;
+Einen allgemeinen Überblick über das Staking finden Sie [hier](../governance/staking/).&#x20;
 
-Each validator has its own unique commission which reflects a percentage of all staking rewards that are set aside to help cover costs for running those validators and securing the Kujira network.
+Jeder Validator hat seine eigene Provision, die einen bestimmten Prozentsatz aller Staking-Belohnungen widerspiegelt, die zur Deckung der Kosten für den Betrieb der Validatoren und die Sicherung des Kujira-Netzwerks verwendet werden.
 
-As an example of how commission might work, say a validator has a 5% commission, has 1 million KUJI in total delegations, and that Kuijra has a 1 year forward looking APR of 10%. On the Kujira chain, as you may know, staking rewards are paid out in the tokens actually used on the chain (though they may also be converted to KUJI when withdrawing). As an approximate measure of a calculation for that validator's total revenue. They would obtain 1 million KUJI \* 10% rewards \* 5% commission = 5000 KUJI per year in revenue assuming those conditions stayed constant.
+Ein Beispiel für die Funktionsweise der Provision: Ein Validator hat eine Provision von 5 %, verfügt über 1 Million KUJI an Gesamtdelegationen, und Kujira hat einen voraussichtlichen APR von 10 % für ein Jahr. Auf der Kujira-Chain werden, wie Sie vielleicht wissen, die Staking-Belohnungen in den Token ausgezahlt, die tatsächlich auf der Chain verwendet werden (obwohl sie bei der Auszahlung auch in KUJI umgewandelt werden können). Als ungefähres Maß für eine Berechnung der Gesamteinnahmen dieses Validators. Sie würden 1 Million KUJI \* 10 % Belohnungen \* 5 % Provision = 5000 KUJI pro Jahr an Einnahmen erzielen, wenn diese Bedingungen konstant bleiben.
 
-Say that we revisit this same scenario above and that you are a delegator to this validator with 1000 KUJI staked. In a year, you would obtain 1000 KUJI \* 10% rewards \*95% not taken as commission = 95 KUJI.&#x20;
+Nehmen wir an, dass wir dasselbe Szenario wiederholen und Sie ein Delegator dieses Validators mit 1000 KUJI im Staking In einem Jahr würden Sie 1000 KUJI \* 10% Belohnungen \*95% nicht als Provision genommen = 95 KUJI.&#x20 erhalten;
 
-In general, the lower the commission the greater the portion of staking rewards you collect by staking with a validator. The higher the commission, the more funding that you are providing directly to an entity that you are staking with. However, this is only one aspect of choosing a validator. It is also very important to consider a validator's technical expertise. As mentioned [here](../governance/staking/slashing.md), if a validator gets slashed, you will lose a portion of your tokens delegated to the validator. Validators may also contribute to the chain in other ways to stand out (something that we always encourage).&#x20;
+Im Allgemeinen gilt: Je niedriger die Provision, desto größer ist der Anteil der Einsätze, den Sie durch Staking mit einem Validator erhalten. Je höher die Provision ist, desto mehr Mittel stellen Sie dem Unternehmen, für das Sie Staking Dies ist jedoch nur ein Aspekt bei der Auswahl eines Validators. Es ist auch sehr wichtig, die technische Kompetenz des Validators zu berücksichtigen. Wie [hier] (../governance/staking/slashing.md) erwähnt, verlieren Sie einen Teil Ihrer Token, die Sie an den Validator delegiert haben, wenn ein Validator geslashed wird. Validatoren können auch auf andere Weise zur Kette beitragen, um sich zu profilieren (was wir immer ermutigen).&#x20;
 
