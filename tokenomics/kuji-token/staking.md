@@ -1,9 +1,9 @@
-# 💱 Staking KUJI
+# 💱 Einsatz von KUJI
 
-Staking KUJI with a Kujira validator will earn you a basket of apex assets over time. All fees that are collected are paid to stakers through our validators. They are not converted to KUJI first, which means that it is easy to accumulate a diversified staking yield rather than just more KUJI. We are adding an option to redeem staking rewards as KUJI as well based on popular demand.&#x20;
+Wenn Sie KUJI mit einem Kujira-Validator staken, erhalten Sie im Laufe der Zeit einen Korb mit Apex-Vermögenswerten. Alle Gebühren, die eingenommen werden, werden über unsere Validatoren an die Staker ausgezahlt. Sie werden nicht erst in KUJI umgewandelt, was bedeutet, dass es einfach ist, eine diversifizierte Einsatzrendite zu erzielen und nicht nur mehr KUJI. Auf Grund der großen Nachfrage fügen wir eine Option hinzu, mit der Sie Ihre Staking-Belohnungen auch in KUJI einlösen können&#x20;
 
-Kujira does not rely on inflationary tokens in order to incentivize staking. We are [sustainable](kuji-sustainability.md). Revenue (including gas) from Kujira’s internal dApps such as ORCA and FIN is sent back to stakers, as well as a portion of revenue from each external protocol that launches on the chain.
+Kujira verlässt sich nicht auf inflationäre Token, um Anreize für Einsätze zu schaffen. Wir sind [nachhaltig](kuji-sustainability.md). Einnahmen (einschließlich Gas) aus Kujiras internen dApps wie ORCA und FIN werden an die Staker zurückgeschickt, ebenso wie ein Teil der Einnahmen aus jedem externen Protokoll, das auf der Chain gestartet wird.
 
-Please navigate [here](https://blue.kujira.app/stake) if you would like to stake your KUJI.  &#x20;
+Bitte navigieren Sie [hier](https://blue.kujira.app/stake), wenn Sie Ihren KUJI einsetzen möchten. &#x20;
 
-A more detailed explanation on the nuances of KUJI staking can be found [here](../../governance/staking/).
+Eine detailliertere Erklärung zu den Feinheiten des KUJI-Staking finden Sie [hier](../../governance/staking/).
