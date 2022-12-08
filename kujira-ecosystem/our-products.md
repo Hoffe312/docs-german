@@ -1,10 +1,10 @@
-# 🗃 Our Products
+# 🗃 Unsere Produkte
 
-### Overview
+### Übersicht
 
-At the moment, we offer a few key first-party products that allow our users to participate in the decentralized financial ecosystem based on their risk appetites and expected return.
+Derzeit bieten wir einige wichtige Erstanbieterprodukte an, die es unseren Nutzern ermöglichen, auf der Grundlage ihrer Risikobereitschaft und Renditeerwartung am dezentralen Finanzökosystem teilzunehmen.
 
-Follow any of the links below to learn a bit more about our product offerings:
+Folgen Sie einem der nachstehenden Links, um mehr über unser Produktangebot zu erfahren:
 
 ### dApps
 
