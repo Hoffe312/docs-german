@@ -1,24 +1,24 @@
 # Kujira Statesync
 
-## Introduction
-Statesync helps you get up and running quickly by syncing the application state at a recent height and skipping historical data.
+## Einleitung
+Statesync hilft Ihnen, schnell loszulegen, indem es den Anwendungsstatus auf einem aktuellen Stand synchronisiert und historische Daten überspringt.
 
-## Quickstart
-The node should not be running for this process (stop the service if you have one).
+## Schnellstart
+Die Node sollte für diesen Prozess nicht laufen (stoppen Sie den Service, wenn Sie einen haben).
 
-1. Install dependencies if you don't have them already.
+1. Installieren Sie die Dependencies, wenn Sie sie nicht bereits haben.
 ```bash
 sudo apt install -y curl jq
 ```
-2. Login as `kuji`. Change the user if it's different or skip if you're already logged in.
+2. Melden Sie sich als `kuji` an. Ändern Sie den Benutzer, wenn er anders ist, oder überspringen Sie ihn, wenn Sie bereits eingeloggt sind.
 ```bash
 sudo su -l kuji
 ```
-3. (Optional) If your node has existing synced data, reset it. Backup your keys!
+3) (Optional) Wenn Ihr Knoten bereits synchronisierte Daten hat, setzen Sie sie zurück. Sichern Sie Ihre Schlüssel!
 ```bash
 kujirad --home $HOME/.kujira tendermint unsafe-reset-all
 ```
-4. Run these commands to modify `config.toml` with the current statesync settings.
+4. Führen Sie diese Befehle aus, um `config.toml` mit den aktuellen Statesync-Einstellungen zu ändern.
 ```bash
 RPC=https://rpc-kujira.mintthemoon.xyz:443
 LATEST_HEIGHT=$(curl -s $RPC/block | jq -r .result.block.header.height)
@@ -29,15 +29,15 @@ s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\"$RPC,$RPC\"| ; \
 s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$TRUST_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"|" "$HOME/.kujira/config/config.toml"
 ```
-5. Start statesyncing! This command will stop automatically once the node is synced.
+5. Starten Sie Statesyncing! Dieser Befehl wird automatisch beendet, sobald die Node synchronisiert ist.
 ```bash
 kujirad start --halt-height $LATEST_HEIGHT
 ```
-6. Restore the original `config.toml` to disable statesync.
+6. Stellen Sie die ursprüngliche `config.toml` wieder her, um statesync zu deaktivieren.
 ```bash
 mv $HOME/.kujira/config/config.toml.bak $HOME/.kujira/config/config.toml
 ```
-7. Statesync is complete, start your node!
+7. Statesync ist abgeschlossen, starten Sie Ihren Knoten!
 ```bash
 kujirad start
 ```
