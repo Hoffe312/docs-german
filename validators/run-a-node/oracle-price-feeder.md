@@ -1,54 +1,53 @@
 # 🥙 Oracle Price Feeder
 
-## Introduction
+## Einleitung
 
-Validators are required to submit price feeds for the on-chain oracle.
-The `price-feeder` app can get price data from multiple providers and
-submit oracle votes to perform this duty.
-
-
-## Requirements
-
-- This guide assumes you are running Ubuntu 22.04.
-- `price-feeder` needs access to a running node's RPC and gRPC ports.
-  This guide assumes you have it on the same machine and uses `localhost`
-  with default ports 26657 and 9090. Change these in `config.toml` as needed.
-- This guide assumes you are configuring the oracle for a mainnet (`kaiyo-1`) validator.
+Validatoren werden benötigt, um Preisfeeds für das On-Chain-Oracle zu übermitteln.
+Die App "price-feeder" kann Preisdaten von mehreren Anbietern abrufen und
+Oracle-Votes übermitteln, um diese Aufgabe zu erfüllen.
 
 
-## User setup
+## Vorraussetzungen
 
-Best practice is to run node software on an isolated unprivileged user.
-We'll create the `kujioracle` user in this guide; if your username is different 
-change it wherever it appears.
+- Diese Anleitung setzt vorraus, dass Sie Ubuntu 22.04 verwenden.
+- 'price-feeder' benötigt Zugriff auf die RPC- und gRPC-Ports einer laufenden Node.
+  Diese Anleitung geht davon aus, dass Sie es auf dem gleichen Rechner haben und `localhost` verwenden
+  mit den Standard-Ports 26657 und 9090. Ändern Sie diese in `config.toml` nach Bedarf.
+- Diese Anleitung geht davon aus, dass Sie das Oracle für einen Mainnet (`kaiyo-1`) Validator konfigurieren.
 
-### Create the `kujioracle` user
+
+## Benutzereinstellungen
+
+Es empfiehlt sich, die Node-Software unter einem isolierten, unprivilegierten Benutzer auszuführen.
+In dieser Anleitung erstellen wir den Benutzer `kujioracle`; wenn Ihr Benutzername anders ist 
+ändern Sie ihn, wo immer er erscheint.
+
+### Erstelle den Benutzer `kujioracle` 
 ```bash
 sudo useradd -m -s /bin/bash kujioracle
 ```
 
 
-## Build environment setup
+## Einrichtung der Build-Umgebung
 
-If you've already followed the [Run a node](/validators/run-a-node/run-a-node.md) guide, the only steps 
-you need in this section are **Install go toolchain** #2 and #3. Repeating the 
-others won't hurt if you want to be safe.
+Wenn Sie bereits die [Run a node](/validators/run-a-node/run-a-node.md) Anleitung gefolgt sind, sind die einzigen Schritte, die Sie in diesem Abschnitt benötigen, **Install go toolchain** #2 und #3 . 
+Die Wiederholung der anderen Schritte kann nicht schaden, wenn Sie sich sicher sein wollen.
 
-### Install build packages
+### Installieren von Build-Paketen
 ```bash
 sudo apt install -y build-essential git unzip curl
 ```
 
-### Install go toolchain
-1. Download and extract go 1.18.5.
+### Installiere go toolchain
+1. Downloade und extrahiere go 1.18.5.
 ```bash
 curl -fsSL https://golang.org/dl/go1.18.5.linux-amd64.tar.gz | sudo tar -xzC /usr/local
 ```
-2. Login as `kujioracle`.
+2. Login als `kujioracle`.
 ```bash
 sudo su -l kujioracle
 ```
-3. Configure environment variables for `kujioracle`.
+3. Konfiguriere die Umgebungsvariablen für `kujioracle`.
 ```bash
 cat <<EOF >> ~/.bashrc
 export GOROOT=/usr/local/go
@@ -63,11 +62,11 @@ go version  # should output "go version go1.18.5 linux/amd64"
 
 ## Build `price-feeder`
 
-1. Login as `kujioracle` (skip if you're already logged in).
+1. Login als `kujioracle` (überspringe dies, falls Sie schon eingeloggt sind).
 ```bash
 sudo su -l kujioracle
 ```
-2. Build `kujirad` v0.7.1. We'll use the binary to create the keyring file.
+2. Build `kujirad` v0.7.1. Wir werden die Binärdatei verwenden, um die Keyring-Datei zu erstellen.
 ```bash
 git clone https://github.com/Team-Kujira/core
 cd core
@@ -85,45 +84,45 @@ price-feeder version
 ```
 
 
-## Configure `price-feeder`
+## Konfiguriere `price-feeder`
 
-### Create a wallet
-This wallet will be relatively insecure, only store the funds you need to send votes.
+### Erstelle ein Wallet
+Dieses Wallet ist relativ unsicher, lagere dort deshalb nur das Guthaben, was zum senden von Votes benötigt wird.
 
-1. Login as `kujioracle` (skip if you're already logged in).
+1. Login als `kujioracle` (überspringe dies, falls Sie schon eingeloggt sind).
 ```bash
 sudo su -l kujioracle
 ```
-2. Create the wallet and a password for the keyring.
+2. Erstellen Sie das Wallet und ein Passwort für den Keyring.
 ```bash
 kujirad keys add oracle
 ```
-3. Configure the `keyring-file` directory. This allows `price-feeder` 
-to find the keyring.
+3. Konfigurieren Sie das `keyring-file` directory. Das erlaubt es dem `price-feeder` 
+den Keyring zu finden.
 ```bash
 mkdir ~/.kujira/keyring-file
 mv ~/.kujira/*.info ~/.kujira/*.address ~/.kujira/keyring-file
 ```
 
-### Set the feeder delegation
-This step will authorize your new wallet to send oracle votes on behalf of your validator.
-The transaction should be sent from the validator wallet so run on a node where it's available.
+### Einstellen der Feeder-Delegation
+Mit diesem Schritt wird Ihre neue Wallet autorisiert, Oracle-Votes im Namen Ihres Validators zu senden.
+Die Transaktion sollte von der Validator-Wallet gesendet werden, also führen Sie sie auf einer Node aus, auf der sie verfügbar ist.
 
-- Replace `<oracle_wallet>` with your new wallet address.
-- Replace `<validator_wallet>` with you validator wallet name.
+- Ersetzen Sie `<oracle_wallet>` durch Ihre neue Wallet-Adresse.
+- Ersetzen Sie `<validator_wallet>` durch den Namen Ihrer Validator-Wallet.
 
 ```bash
 kujirad tx oracle set-feeder <oracle_wallet> --from <validator_wallet> --fees 250ukuji
 ```
 
-### Create the config
-1. Login as `kujioracle` (skip if you're already logged in).
+### Erstelle die config-Datei
+1. Login als `kujioracle` (skip if you're already logged in).
 ```bash
 sudo su -l kujioracle
 ```
-2. Create the config file with your favorite text editor (for example `nano`).
-    - Replace `<wallet_address>` with your oracle wallet address (e.g. `kujira16jchc8l8hfk98g4gnqk4pld29z385qyseeqqd0`)
-    - Replace `<validator_address>` with your validator address (e.g. `kujiravaloper1e9rm4nszmfg3fdhrw6s9j69stqddk7ga2x84yf`)
+2. Erstellen Sie die Konfigurationsdatei mit Ihrem bevorzugten Texteditor (z. B. `nano`).
+    - Ersetzen Sie "<wallet_adress>" durch Ihre Oracle-Wallet-Adresse (e.g. `kujira16jchc8l8hfk98g4gnqk4pld29z385qyseeqqd0`)
+    - Ersetzen Sie `<Validator_address>` durch Ihre Validator-Adresse (e.g. `kujiravaloper1e9rm4nszmfg3fdhrw6s9j69stqddk7ga2x84yf`)
 
     ```toml title="~/config.toml"  
     gas_adjustment = 1.5
@@ -181,29 +180,29 @@ sudo su -l kujioracle
     websocket = "stream.binance.us:9443"
     ```
 
-#### Configure the currency pairs
-The `[[currency_pairs]]` provided in the config above is only an example, each validator
-should modify this to submit prices for the denoms whitelisted by the chain. Keep an eye
-out for governance proposals introducing new denoms.
+#### Konfigurieren Sie die Währungspaare
+Die in der obigen Konfiguration angegebenen `[[currency_pairs]]` sind nur ein Beispiel, jeder Validator
+sollte dies ändern, um Preise für die von der Kette zugelassenen Denominationen zu übermitteln. Halten Sie ein Auge
+für Governance-Vorschläge zur Einführung neuer Denominationen.
 
-**NOTE:** It is important that currency pairs in this config exactly match those in the currently configured whitelist for the chain:
+**NOTIZ:** Es ist wichtig, dass die Währungspaare in dieser Konfiguration genau mit denen in der aktuell konfigurierten Whitelist für die Chain übereinstimmen:
 
 * Testnet: [harpoon-4](https://lcd.harpoon.kujira.setten.io/oracle/params)
 * Mainnet: [kaiyo-1](https://lcd.kaiyo.kujira.setten.io/oracle/params)
 
-You can also query the oracle params using `kujirad`
+Sie können die Oracle-Parameter auch mit `kujirad` abfragen
 
 ```
 kujirad query oracle params
 ```
 
 
-## Advanced Setup
+## Erweiterte Einstellungen
 
 ### Provider Endpoints
-It is possible to overwrite default provider endpoints (e.g. to point to an alternate mirror) by specifying them in `[[provider_endpoints]]`.
+Es ist möglich, Standard-Provider-Endpunkte zu überschreiben (z.B. um auf einen anderen Mirror zu zeigen), indem man sie in `[[provider_endpoints]]` angibt.
 
-#### Example for Binance.US
+#### Beispiel für Binance.US
 
 ```
 [[provider_endpoints]]
@@ -212,8 +211,11 @@ rest = "https://api.binance.us"
 websocket = "stream.binance.us:9443"
 ```
 
-### Addresses & Voting Delegate
-The price-feeder submits transactions on behalf of your validator that contain prices of specified denoms. The feeder account will need enough funding to pay for gas for these automatic vote transactions perpetually. Due to how this is performed by price-feeder, it's highly recommended to use a delegate feeder account rather than the validator account as the feeder wallet key is potentially more exposed.
+### Adressen & stimmberechtigter Vertreter
+Der Preisfeeder reicht im Namen Ihres Validators Transaktionen ein, die Preise für bestimmte Stückelungen enthalten. Das Feeder-Konto muss über genügend Mittel
+verfügen, um das Gas für diese automatischen Abstimmungstransaktionen dauerhaft zu bezahlen. Aufgrund der Art und Weise, wie dies durch den Preis-Feeder durchgeführt
+wird, ist es sehr empfehlenswert, ein delegiertes Feeder-Konto anstelle des Validator-Kontos zu verwenden, da der Wallet-Schlüssel des Feeder-Kontos potenziell stärker
+gefährdet ist.
 
 ```
 [account]
@@ -223,11 +225,12 @@ validator = "kujiravaloper...." # validator address
 prefix = "kujira"
 ```
 
-Ensure the `validator` address is set to [your validator address.](https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L52)
+Vergewissern Sie sich, dass die `validator`-Adresse auf [Ihre Validator-Addresse](https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L52) eingestellt ist.
 
-Ensure that `address` is set to the address of [your feeder wallet](https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L50). By default this is the same as the `kujira` address for your validator key, however it's likely that you'll want to set a delegate feeder account to your validator so that you can run price-feeder on a separate user account or separate server, with different keys.
+Vergewissern Sie sich, dass die `address` auf [Ihr feeder Wallet](https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L50) eingestellt ist. Standardmäßig ist dies die gleiche Adresse wie die `kujira'-Adresse für Ihren Validator-Schlüssel. Es ist jedoch wahrscheinlich, dass Sie einen delegierten Feeder-Account für Ihren Validator einrichten möchten, so dass Sie Price-Feeder auf einem separaten Benutzerkonto oder einem separaten Server mit unterschiedlichen Schlüsseln ausführen können.
 
-To set a delegate:
+
+So legen Sie einen Delegierten fest:
 
 ```
 kujirad tx oracle set-feeder kujira1243.....
@@ -235,7 +238,7 @@ kujirad tx oracle set-feeder kujira1243.....
 
 ### Keyring Backend
 
-Depending on your infrastructure you may have a different preference for your keyring backend. If you are running price-feeder on a separate account or separate server, you can experiment with different keyring backends without any risk to your running validator - however, you risk corrupting your validator keys if you are not using a separate account or server for price-feeder (again, this configuration is not recommended)
+Je nach Ihrer Infrastruktur haben Sie möglicherweise eine andere Präferenz für Ihr Keyring-Backend. Wenn Sie Price-Feeder auf einem separaten Konto oder einem separaten Server betreiben, können Sie mit verschiedenen Keyring-Backends experimentieren, ohne dass Ihr laufender Validator gefährdet wird - Sie riskieren jedoch, dass Ihre Validator-Schlüssel beschädigt werden, wenn Sie kein separates Konto oder keinen separaten Server für Price-Feeder verwenden (auch diese Konfiguration wird nicht empfohlen)
 
 [https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L55-L57](https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L55-L57)
 
@@ -248,9 +251,9 @@ backend = "os"
 dir = "/home/kuji/.kujira"
 ```
 
-#### FILE
+#### DATEI
 
-**Create a file keyring**
+**Erstelle eine Keyring-Datei**
 
 ```bash
 kujirad keys add oracle
@@ -258,7 +261,7 @@ mkdir ~/.kujira/keyring-file
 mv ~/.kujira/*.address ~/.kujira/*.info ~/.kujira/keyring-file
 ```
 
-**Set the password variable**
+**Setzen Sie die Passwortvariable**
 
 ```bash
 export PRICE_FEEDER_PASS=<keyring_password>
@@ -274,11 +277,11 @@ dir = "/home/kuji/.kujira"
 
 #### PASS
 
-You may need to install `pass` first:
+Möglicherweise müssen Sie zuerst `pass` installieren:
 
 [https://www.passwordstore.org](https://www.passwordstore.org)
 
-And then set your passphrase to env
+Und dann setzen Sie Ihre Passphrase auf env.
 
 ```
 export PRICE_FEEDER_PASS=...  
@@ -292,9 +295,9 @@ dir = "/home/kuji/.kujira"
 ```
 
 ### RPC Endpoints
-If price-feeder is running on the same server as your node and your node is using default ports, the default RPC configuration should work.
+Wenn price-feeder auf demselben Server wie Ihre Node läuft und Ihre Node die Standardports verwendet, sollte die Standard-RPC-Konfiguration funktionieren.
 
-If you are running a different node configuration, you may need to edit these RPC settings to match your infrastructure.
+Wenn Sie eine andere Nodekonfiguration verwenden, müssen Sie diese RPC-Einstellungen möglicherweise an Ihre Infrastruktur anpassen.
 
 ```
 [rpc]
@@ -303,14 +306,14 @@ rpc_timeout = "100ms"
 tmrpc_endpoint = "http://localhost:26657"
 ```
 
-### Telemetry & Prometheus
-Telemetry is provided by the [Cosmos SDK Telemetry module](https://github.com/cosmos/cosmos-sdk/blob/main/docs/core/telemetry.md). To query metrics from a running price-feeder, pipe the output into jq
+### Telemetrie & Prometheus
+Telemetre wird von dem [Cosmos SDK Telemetry module](https://github.com/cosmos/cosmos-sdk/blob/main/docs/core/telemetry.md) bereitgestellt. Um Metriken von einem laufenden Price-Feeder abzufragen, leiten Sie die Ausgabe an jq.
 
 `curl "http://localhost:7171/api/v1/metrics" | jq`
 
-To publish price-feeder metrics in prometheus format, the config.toml must include the `prometheus_retention` flag
+Um Preis-Feeder-Metriken im Prometheus-Format zu veröffentlichen, muss die config.toml das Flag `prometheus_retention` enthalten
 
-Example Telemetry configuration block with Prometheus format enabled:
+Beispiel für einen Telemetrie-Konfigurationsblock mit aktiviertem Prometheus-Format:
 
 ```
 [telemetry]
@@ -324,7 +327,7 @@ type = "prometheus"
 prometheus_retention = 120
 ```
 
-Example scrape\_config in Prometheus:
+Beispiel scrape\_config in Prometheus:
 
 ```
 scrape_configs:
@@ -350,12 +353,12 @@ sudo su -l kujioracle
 echo <keyring_password> | price-feeder ~/config.toml
 ```
 
-## Create a service
+## Erstelle einen Service
 
-A systemd service will keep `price-feeder` running in the background and restart it if it stops.
+Ein systemd-Dienst sorgt dafür, dass `price-feeder` im Hintergrund weiterläuft und startet ihn neu, wenn er anhält.
 
-1. Create the service file with `sudo` using your favorite text editor. 
-Replace `<keyring_password>` with the one you created.
+1. Erstellen Sie die Servicedatei mit `sudo` in Ihrem bevorzugten Texteditor. 
+Ersetzen Sie `<keyring_password>` durch das von Ihnen erstellte Passwort.
 ```ini title="/etc/systemd/system/kujira-price-feeder.service"
 [Unit]
 Description=kujira-price-feeder
