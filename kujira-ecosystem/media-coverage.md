@@ -1,4 +1,4 @@
-# 🎦 Media Coverage
+# 🎦 Medienberichterstattung (in englisch)
 
 [How a Terra App Allows Users to Buy Ethereum At Big Discount](https://www.forbes.com/sites/youngjoseph/2021/12/28/how-a-terra-app-allows-users-to-buy-ethereum-at-big-discount/?sh=5dad9cd73dc7) - Forbes
 
