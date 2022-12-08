@@ -1,35 +1,35 @@
-# 🛠 Create a validator
+# 🛠 Erstelle einen Validator
 
-## Introduction
+## Einführung
 
-Once your node has synced, it's time to create a validator. It can be done on a separate machine if preferred.
+Sobald Ihre Node synchronisiert ist, ist es an der Zeit, einen Validator zu erstellen. Dies kann auf einem separaten Rechner geschehen, falls gewünscht.
 
-## Add validator wallet
+## Füge eine Validator-Wallet hinzu
 
-1. Create the wallet and a password for the keyring. Replace `<wallet>` with any name you like, just make sure to remember it!
+1. Erstellen Sie die Wallet und ein Passwort für den Keyring. Ersetzen Sie "<Wallet>" durch einen beliebigen Namen, den Sie sich merken müssen!
 
 ```bash
 kujirad keys add <wallet>
 ```
-2. Store your wallet seed and keyring password somewhere safe. Use the command below if you ever need to recover it.
+2. Bewahren Sie Ihren Wallet-Seed und Ihr Keyring-Passwort an einem sicheren Ort auf. Verwenden Sie den unten stehenden Befehl, wenn Sie sie jemals wiederherstellen müssen.
 
 ```bash
 kujirad keys add --recover <wallet>
 ```
 
-3. Get some tokens to send the ```create-validator```tx. You can check your balance via
+3. Besorgen Sie sich einige Token, um die ```create-validator```tx zu senden. Sie können Ihr Guthaben überprüfen über
 
 ```shell
 kujirad query bank balances kujira....
 ```
 
-The next part is associating your node with your account, creating the validator
+Der nächste Teil ist die Verknüpfung Ihres Knotens mit Ihrem Konto, wodurch der Validator erstellt wird
 
-## Send the create-validator tx
-- Replace `<moniker>` with your validator display name.
-- Replace `<wallet>` with the name of your validator wallet.
-- Set the `--commission` values to your desired commission rates.
-- Modify the chain-id from `kaiyo-1` if mainnet isn't the target.
+## Sende die create-validator tx
+- Ersetzen Sie `<moniker>` durch den Anzeigenamen Ihres Validators.
+- Ersetzen Sie "<Wallet>" durch den Namen Ihres Validator-Wallets.
+- Setze die `--commission` Werte auf Ihre gewünschten Provisionssätze.
+- Ändern Sie die chain-id von "kaiyo-1", wenn das mainnet nicht das Ziel ist.
 
 ```bash
 kujirad tx staking create-validator \
@@ -47,10 +47,10 @@ kujirad tx staking create-validator \
     --gas-adjustment=1.5
 ```
 
-## Backup your keys!
-It's very important to keep a secure copy of your validator's private key, 
-which will allow you to recreate the validator if anything happens to your server.
-Take a backup of this file: `$HOME/.kujira/config/priv_validator_key.json`.
-If you restore it to a new node, it will begin signing blocks as your validator.
-Be very careful! Signing from two nodes at the same time will result in a hard slash 
-and jailing.
+## Sichern Sie ihre Keys!
+Es ist sehr wichtig, eine sichere Kopie des privaten Schlüssels Ihres Validators aufzubewahren, 
+Damit können Sie den Validator wiederherstellen, falls Ihrem Server etwas zustößt.
+Erstellen Sie ein Backup dieser Datei: `$HOME/.kujira/config/priv_validator_key.json`.
+Wenn Sie diese Datei auf einem neuen Knoten wiederherstellen, wird er beginnen, Blöcke als Ihr Validator zu signieren.
+Seien Sie sehr vorsichtig! Das gleichzeitige Signieren von zwei Nodes führt zu einem Hard Slash 
+und einer Sperre.
