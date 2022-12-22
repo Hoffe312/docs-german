@@ -1,5 +1,5 @@
 ---
-description: Logo options and usage examples
+Beschreibung: Logo optionen und Anwendungsbeispiel
 ---
 
 # 💮 Logo Options
