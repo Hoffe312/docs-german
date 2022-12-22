@@ -1,9 +1,9 @@
 # 🎛 dApp Front Ends
 
-## Overview
+## Überblick
 
-Our dApps containing sensitive information that are part of the magic secret sauce that allows Kujira's products and infrastructure to be sustainable for our stakers and run at such a high level of quality. As a result, we have decided to start out by closed sourcing our various contracts temporarily. That being said, we are planning to slowly open-source our contracts.&#x20;
+Unsere dApps enthalten sensible Informationen, die Teil der magischen, geheimen Sauce sind, die es Kujiras Produkten und Infrastruktur ermöglicht, für unsere Staker nachhaltig zu sein und auf einem so hohen Qualitätsniveau zu laufen. Aus diesem Grund haben wir beschlossen, unsere verschiedenen Verträge zunächst vorübergehend auszulagern. Wir planen jedoch, unsere Verträge nach und nach der Öffentlichkeit zugänglich zu machen&#x20;
 
-We have a repository of anything open-source in our Github: [https://github.com/Team-Kujira](https://github.com/Team-Kujira)
+Wir haben ein Repository für alles, was Open-Source ist, in unserem Github: [https://github.com/Team-Kujira](https://github.com/Team-Kujira)
 
-In this section, we will focus on the aspects of our dApps that are being open-sourced over time. &#x20;
+In diesem Abschnitt werden wir uns auf die Aspekte unserer dApps konzentrieren, die im Laufe der Zeit als Open-Source verfügbar gemacht werden;
