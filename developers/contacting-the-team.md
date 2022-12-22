@@ -1,11 +1,11 @@
-# ✉ Contacting the Team
+# ✉ Kontaktaufnahme mit dem Team
 
-The two best ways of contacting the team are either through emailing them directly or reaching out to them on Telegram, Discord, or Twitter.
+Die beiden besten Möglichkeiten, das Team zu kontaktieren, sind entweder eine direkte E-Mail an das Team oder eine Kontaktaufnahme über Telegram, Discord oder Twitter.
 
 ### Email
 
-The team can be reached at [hello@kujira.app](http://hello@kujira.app). Dan Tanaka can be reached at dan@kujira.app
+Das Team kann unter [hello@kujira.app](http://hello@kujira.app) erreicht werden. Dan Tanaka kann unter dan@kujira.app erreicht werden.
 
 ### Telegram/Discord/Twitter
 
-The team can be reached by sending direct messages to the @teamkujira account on Twitter or reaching out to Dove or Dan on Telegram or Discord.&#x20;
+Das Team kann durch direkte Nachrichten an den @teamkujira-Account auf Twitter oder durch Kontaktaufnahme mit Dove oder Dan auf Telegram oder Discord erreicht werden&#x20;
