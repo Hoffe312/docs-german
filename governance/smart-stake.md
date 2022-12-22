@@ -1,11 +1,11 @@
 # 👓 Smart Stake
 
-Smart Stake is a member of the Kujira active validator set that validates on many chains.
+Smart Stake ist ein Mitglied des Kujira Active Validator Sets, das viele Chains validiert.
 
-Smart Stake provides helpful third party analytics for chains that they validate on. This includes validator statuses, detailed network analytics (including an information breakdown of various key network components and charts displaying changes in important statistics over time), and a governance breakdown showing how different validators (and other Kuijra wallet addresses) vote on current and past governance proposals.&#x20;
+Smart Stake bietet hilfreiche Analysen von Drittanbietern für Ketten, die sie validieren. Dazu gehören der Validator-Status, detaillierte Netzwerkanalysen (einschließlich einer Informationsaufschlüsselung verschiedener Schlüsselkomponenten des Netzwerks und Diagrammen, die Veränderungen wichtiger Statistiken im Laufe der Zeit anzeigen) und eine Governance-Aufschlüsselung, die zeigt, wie verschiedene Validatoren (und andere Kuijra-Wallet-Adressen) über aktuelle und frühere Governance-Vorschläge abstimmen;
 
-Independent third party community network analytics help promote network decentralization as they can be compared against first party analytics. Smart Stake provides an important service by putting accountability in the hands of the community. Validators can be held accountable as their voting behavior is publicly available.
+Unabhängige Netzwerkanalysen von Drittanbietern helfen, die Dezentralisierung des Netzwerks zu fördern, da sie mit den Analysen von Erstanbietern verglichen werden können. Smart Stake leistet einen wichtigen Dienst, indem es die Rechenschaftspflicht in die Hände der Gemeinschaft legt. Die Validatoren können zur Rechenschaft gezogen werden, da ihr Abstimmungsverhalten öffentlich zugänglich ist.
 
-Kujira Smart Stake analytics can be found [here](https://kujira.smartstake.io/).
+Kujira Smart Stake-Analysen können [hier] (https://kujira.smartstake.io/) gefunden werden.
 
-That being said, we still encourage delegators to aim for a relatively homogenous split across the total validator set, where they can, to increase and promote network decentralization. &#x20;
+Dennoch ermutigen wir die Delegatoren, eine relativ homogene Verteilung über alle Validatoren anzustreben, um die Dezentralisierung des Netzwerks zu fördern. &#x20;
