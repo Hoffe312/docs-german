@@ -1,3 +1,3 @@
 # 🗼 SENATE
 
-Perfection takes time.
+Perfektion braucht seine Zeit.
