@@ -1,11 +1,11 @@
-# 👨💻 Who are Team Kujira
+# 👨💻 Wer ist das Team Kujira?
 
-### Our 3 Founders
+### Unsere 3 Gründer
 
-Brett [@cryptoslang1](https://twitter.com/cryptoslang1) | Golden retriever, central front-end developer for Kujira                       \
-Dove [@deadrightdove](https://twitter.com/deadrightdove) | Dove, CEO and public face of Kujira                                                                                                                                        Hans [@codehans1](https://twitter.com/codehans1) | Hen, central back-end & smart contract developer for Kujira                                                                                                                          &#x20;
+Brett [@cryptoslang1](https://twitter.com/cryptoslang1) | Golden Retriever, zentraler Front-End-Entwickler für Kujira \
+Dove [@deadrightdove](https://twitter.com/deadrightdove) | Dove, CEO und öffentliches Gesicht von Kujira Hans [@codehans1](https://twitter.com/codehans1) | Henne, zentraler Backend- & Smart Contract-Entwickler für Kujira &#x20;
 
-### Core Team
+### Kernteam
 
-Dan Tanaka [@dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev at Kujira \
-Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager and runs the Rorcual validator with a partner                                                                                                                                                                                                                                                                                                                                  Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Researches, strategizes, and innovates at Kujira / KujiDAO cofounder                                   Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, moderator, advisor, involved behind the scenes                                                                        Jan [@JPTG119](https://twitter.com/JPTG119) | Responsible for media and marketing at Kujira                                                                                             Kuji Peruggi [@KujiPeruggi](https://twitter.com/KujiPeruggi) | Creates high quality written content for Kujira                                                                                                                                                     Tnut [@Teeznutz11](https://twitter.com/Teeznutz11) | Biz dev involved in something special TBA later on                                                       &#x20;
+Dan Tanaka [@dantanakakujira](https://twitter.com/dantanakakujira) | Growth Lead und Head biz dev bei Kujira \
+Alex [@Unconumb](https://twitter.com/Unconumb) | Community Manager und betreibt mit einem Partner den Rorcual Validator Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Forschung, Strategie und Innovation bei Kujira / KujiDAO Mitbegründer Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, Moderator, Berater, hinter den Kulissen tätig Jan [@JPTG119](https://twitter. com/JPTG119) | Verantwortlich für Medien und Marketing bei Kujira Kuji Peruggi [@KujiPeruggi](https://twitter.com/KujiPeruggi) | Erstellt qualitativ hochwertige schriftliche Inhalte für Kujira Tnut [@Teeznutz11](https://twitter.com/Teeznutz11) | Biz dev beteiligt an etwas Besonderem TBA... &#x20;
