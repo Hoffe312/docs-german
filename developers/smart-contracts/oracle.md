@@ -1,12 +1,12 @@
-# Price Oracle
+# Preis-Orakel
 
-Every 30 seconds, all 75 validators in the Kujira active set are required to post a transaction containing the current price for a range of assets, aggregated from a number of sources. This creates an on-chain source of truth which can be queried from a UI front-end, the CLI and also in smart contracts.
+Alle 30 Sekunden müssen alle 75 Validierer in der aktiven Gruppe von Kujira eine Transaktion posten, die den aktuellen Preis für eine Reihe von Vermögenswerten enthält, der aus einer Reihe von Quellen aggregiert wird. Dadurch wird eine On-Chain-Quelle der Wahrheit geschaffen, die über ein UI-Frontend, das CLI und auch in Smart Contracts abgefragt werden kann.
 
 ### REST
 
-You can fetch all exchange rates here: [https://lcd.kaiyo.kujira.setten.io/oracle/denoms/exchange\_rates](https://lcd.kaiyo.kujira.setten.io/oracle/denoms/exchange\_rates)
+Sie können alle Wechselkurse hier abrufen: [https://lcd.kaiyo.kujira.setten.io/oracle/denoms/exchange\_rates](https://lcd.kaiyo.kujira.setten.io/oracle/denoms/exchange\_rates)
 
-Or just a specific one at eg [https://lcd.kaiyo.kujira.setten.io/oracle/denoms/ATOM/exchange\_rate](https://lcd.kaiyo.kujira.setten.io/oracle/denoms/ATOM/exchange\_rate)
+Oder nur einen bestimmten unter z.B. [https://lcd.kaiyo.kujira.setten.io/oracle/denoms/ATOM/exchange\_rate](https://lcd.kaiyo.kujira.setten.io/oracle/denoms/ATOM/exchange\_rate)
 
 ### CLI
 
@@ -16,7 +16,7 @@ kujirad query oracle exchange-rates
 
 ### CosmWASM
 
-The kujira-rs package provides queryable bindings to fetch current exchange rates inside your smart contracts:
+Das kujira-rs Paket bietet abfragbare Bindungen, um aktuelle Wechselkurse innerhalb Ihrer Smart Contracts abzurufen:
 
 {% embed url="https://docs.rs/kujira/0.7.5/kujira/msg/enum.KujiraMsg.html" %}
 
