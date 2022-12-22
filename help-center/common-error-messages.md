@@ -1,3 +1,3 @@
-# ⚠ Common Error Messages
+# ⚠ Allgemeine Fehlermeldungen
 
-Perfection takes time.
+Perfektion braucht seine Zeit
