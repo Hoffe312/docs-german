@@ -1,7 +1,7 @@
 # 📊 FIN
 
-### Cosmos' first decentralized, permissionless, 100% on-chain order book style token exchange.
+### Cosmos' erste dezentrale, erlaubnisfreie, 100% On-Chain-Orderbuch-ähnliche Token-Börse.
 
-Liquidity pools are out of date and no longer fit for purpose. FIN creates a fully decentralized trading experience where the need for inflationary incentives and bots are no longer required, and the risk of impermanent loss falls away entirely. Welcome to the future of the DEX.
+Liquiditätspools sind veraltet und nicht mehr zweckdienlich. FIN schafft ein vollständig dezentralisiertes Handelserlebnis, bei dem inflationäre Anreize und Bots nicht mehr erforderlich sind und das Risiko eines unbeständigen Verlustes vollständig entfällt. Willkommen in der Zukunft der DEX.
 
 [https://fin.kujira.app/](https://fin.kujira.app/)
