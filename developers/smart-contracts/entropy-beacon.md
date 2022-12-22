@@ -1,6 +1,6 @@
 # 🎲 Entropy Beacon
 
-Wir danken [Entropic Labs] (https://entropiclabs.io/beacon/), die kryptographisch verifizierbare On-Chain-Zufälligkeit für Kujira bereitstellen.
+Wir danken [Entropic Labs](https://entropiclabs.io/beacon/), die kryptographisch verifizierbare On-Chain-Zufälligkeit für Kujira bereitstellen.
 
 Ihr Entropy Beacon ist eine dezentrale Zufallsquelle für Blockchain-Entwickler, die eine sichere Zufallszahlengenerierung in vertrauenslosen On-Chain-Umgebungen bietet, die erste, die dies auf Cosmos-basierten Blockchains tut.&#x20;
 
