@@ -1,9 +1,9 @@
 # 🐚 Capybara Labs
 
-Capybara Labs is a Kujira community validator run by Spacey (@spaceyisawe on Twitter) that has received funding from the Kujira community pool to provide various useful services and analytics for our community.
+Capybara Labs ist ein Kujira-Community-Validator, der von Spacey (@spaceyisawe auf Twitter) betrieben wird und Mittel aus dem Kujira-Community-Pool erhalten hat, um verschiedene nützliche Dienste und Analysen für unsere Community bereitzustellen.
 
-Capybara Labs has created a Kujira notification Telegram bot, SeaShanty, that [Telegram](../community/kujira-socials/telegram.md) users can utilize by interacting with the bot (Telegram username is @KujiraNotification\_bot), providing their Kujira wallet address, and following the instructions.
+Capybara Labs hat einen Kujira-Benachrichtigungs-Telegram-Bot, SeaShanty, entwickelt, den [Telegram](../community/kujira-socials/telegram.md) Benutzer nutzen können, indem sie mit dem Bot interagieren (Telegram-Benutzername ist @KujiraNotification\_bot), ihre Kujira-Wallet-Adresse angeben und den Anweisungen folgen.
 
-The notification bot provides various types of useful information such as status updates on ORCA liquidation bids, status updates on execution of FIN limit orders, new Kujira Govern proposal announcements (so community members are aware of governance activity and have the opportunity to vote). If granted permission, SeaShanty can now autoactivate your ORCA bids (and also pay any associated gas fees).&#x20;
+Der Benachrichtigungs-Bot liefert verschiedene Arten von nützlichen Informationen, wie z.B. Status-Updates zu ORCA-Liquidationsangeboten, Status-Updates zur Ausführung von FIN-Limit-Orders, Ankündigungen neuer Kujira-Government-Vorschläge (damit die Community-Mitglieder über Governance-Aktivitäten informiert sind und die Möglichkeit haben, abzustimmen). Wenn Sie die Erlaubnis dazu haben, kann SeaShanty jetzt Ihre ORCA-Gebote automatisch aktivieren (und auch alle damit verbundenen Gasgebühren bezahlen);
 
-Capybara also helps us run Dale the Mail Whale (@DaleMailWhale on Twitter), our colorful ORCA liquidations information bot.  &#x20;
+Capybara hilft uns auch beim Betrieb von Dale the Mail Whale (@DaleMailWhale auf Twitter), unserem bunten ORCA-Liquidations-Informationsbot;
