@@ -1,4 +1,4 @@
-# 🚢 Versandspur
+# 🚢 Shipping Lane
 
 ### Übersicht
 
@@ -482,6 +482,6 @@ Hier ist die monatliche Kujira Shipping Lane seit ihrer Gründung:
 | October 26 | ATLO polls Twitter community for preferred token launch method                                                                                                                                                                                                                                                                                                                                                             |
 | October 26 | Kujira Docs major overhaul goes live                                                                                                                                                                                                                                                                                                                                                                                       |
 
-## What's Next?
+## Was kommt als Nächstes?
 
-The Shipping Lane will be updated bi-monthly to allow more resources to be focused on development while preserving the integrity and quality of all underlying documentation. We plan to continue delivering like crazy from here on out. The Kujira Blockchain is just getting started.
+Die Shipping Lane wird alle zwei Monate aktualisiert, damit mehr Ressourcen für die Entwicklung zur Verfügung stehen und gleichzeitig die Integrität und Qualität der zugrunde liegenden Dokumentation gewahrt bleibt. Wir planen, von nun an weiterhin wie verrückt zu liefern. Die Kujira Blockchain steht erst am Anfang.
