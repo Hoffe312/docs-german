@@ -1,17 +1,17 @@
-# 🔁 Redelegate
+# 🔁 Redelegieren
 
-After a delegator bonds KUJI to a validator, sometimes for whatever reason (that validator votes in a way they do not agree with, the validator gets slashed, or they come to prefer/like another validator they discover) they want to stake with another validator instead.
+Nachdem ein Delegierter KUJI an einen Validator gebunden hat, kann es vorkommen, dass er, aus welchen Gründen auch immer (der Validator stimmt in einer Weise ab, mit der er nicht einverstanden ist, der Validator wird zerschlagen, oder er bevorzugt einen anderen Validator, den er entdeckt hat), stattdessen einen anderen Validator einsetzen möchte.
 
-Thankfully, Kujira allows Kujirans to redelegate at any time (with one caveat) from any one validator to another. This ensures that Kujirans have full flexibility in choosing who they want to stake with. The one caveat is redelegated KUJI tokens cannot be redelegated again until after a 14 day cooldown. So make sure to redelegate to the right validator.&#x20;
+Zum Glück erlaubt Kujira den Kujiranern, jederzeit (mit einem Vorbehalt) von einem Validator zu einem anderen zu wechseln. Dadurch wird sichergestellt, dass Kujiraner die volle Flexibilität bei der Wahl ihres Einsatzes haben. Die einzige Einschränkung besteht darin, dass zurückgegebene KUJI-Token erst nach einer 14-tägigen Abkühlungsphase wieder zurückgegeben werden können. Vergewissern Sie sich also, dass Sie die Token an den richtigen Validator weitergeben. &#x20;
 
-This cooldown is in place to help secure the network.
+Diese Abkühlungsphase dient der Sicherheit des Netzwerks.
 
-Redelegation occurs on [the staking page](https://blue.kujira.app/stake) within the BLUE dApp. Simply select a validator that you are currently staked with. And then select redelegate.
+Die Neuzuweisung erfolgt auf [der Staking-Seite](https://blue.kujira.app/stake) innerhalb der BLUE dApp. Wählen Sie einfach einen Validator aus, mit dem Sie derzeit einen Einsatz leisten. Und wählen Sie dann redelegate.
 
 <img src="../../.gitbook/assets/image.png" alt="" data-size="original">
 
-Next search for a new validator that you would like to redelegate to as seen in the picture below&#x20;
+Als nächstes suchen Sie nach einem neuen Validator, den Sie neu delegieren möchten, wie im folgenden Bild zu sehen&#x20;
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-Finally click Redelegate KUJI to finish the process.&#x20;
+Klicken Sie schließlich auf Redelegate KUJI, um den Vorgang abzuschließen&#x20;
