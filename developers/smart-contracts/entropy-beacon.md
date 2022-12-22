@@ -1,46 +1,45 @@
 # 🎲 Entropy Beacon
 
-We give a big thanks to [Entropic Labs](https://entropiclabs.io/beacon/) who are bringing cryptographically verifiable on-chain randomness to Kujira.
+Wir danken [Entropic Labs] (https://entropiclabs.io/beacon/), die kryptographisch verifizierbare On-Chain-Zufälligkeit für Kujira bereitstellen.
 
-Their Entropy Beacon is a decentralized source of randomness for blockchain developers that provides secure random number generation in trustless on-chain environments, the first to do so on Cosmos based blockchains.&#x20;
+Ihr Entropy Beacon ist eine dezentrale Zufallsquelle für Blockchain-Entwickler, die eine sichere Zufallszahlengenerierung in vertrauenslosen On-Chain-Umgebungen bietet, die erste, die dies auf Cosmos-basierten Blockchains tut.&#x20;
 
-Let's cover a few main aspects of the Entropy Beacon below:
+Im Folgenden werden einige Hauptaspekte des Entropy Beacon behandelt:
 
-### On-chain Entropy&#x20;
+### On-chain Entropie&#x20;
 
-It is currently impossible to generate completely unpredictable random numbers on-chain. Beacon intends to provide a secure, unpredictable, cheap random number generator.
+Es ist derzeit unmöglich, völlig unvorhersehbare Zufallszahlen auf der Kette zu erzeugen. Beacon beabsichtigt, einen sicheren, unvorhersehbaren, billigen Zufallszahlengenerator anzubieten.
 
-### Free Submissions
+### Freie Einreichungen
 
-When smart contracts need on-chain entropy, they request it from the Beacon. Off-chain workers pick up the request, generate it, and call the Beacon contract. At this point, the Entropy Beacon uses gas to call the callback function on the requesting contract. Kuijra has set up a feegrant paid from a protocol wallet to incentivize off-chain workers to call the function and cover Beacon gas fees. As a result, protocols consuming randomness do not need to take on any extra fees or pass them to users.
+Wenn Smart Contracts On-Chain-Entropie benötigen, fordern sie diese beim Beacon an. Off-Chain-Arbeiter nehmen die Anfrage auf, erzeugen sie und rufen den Beacon-Vertrag an. An diesem Punkt verwendet der Entropie-Beacon Gas, um die Callback-Funktion des anfordernden Vertrags aufzurufen. Kuijra hat einen Gebührenzuschuss eingerichtet, der von einer Protokoll-Brieftasche bezahlt wird, um Anreize für Off-Chain-Arbeiter zu schaffen, die Funktion aufzurufen und die Beacon-Gasgebühren zu decken. Dadurch müssen Protokolle, die Zufälligkeiten nutzen, keine zusätzlichen Gebühren übernehmen oder an die Nutzer weitergeben.
 
-### Streamlined Development
+### Vereinfachte Entwicklung
 
-Beacon provides the most comfortable developer experience of any existing randomness solution, with no complex tokenomics and subscription models, and an ergonomic API for interacting with the system.
+Beacon bietet die komfortabelste Entwicklererfahrung aller existierenden Zufallslösungen, ohne komplexe Tokenomics und Abonnementmodelle und mit einer ergonomischen API für die Interaktion mit dem System.
 
-### Enabling Next-Gen dApps
+### Ermöglicht dApps der nächsten Generation
 
-An on-chain entropy beacon opens up hundreds of previously unachievable usecases. Lottery systems, tamper-proof giveaways, complex DeFi games, and countless others all require the decentralized generation of secure random numbers.
+Ein On-Chain-Entropie-Beacon eröffnet Hunderte von bisher unerreichbaren Anwendungsfällen. Lotteriesysteme, fälschungssichere Werbegeschenke, komplexe DeFi-Spiele und unzählige andere erfordern die dezentrale Generierung von sicheren Zufallszahlen.
 
-### How it works
+### Wie funktioniert es?
 
-Beacon uses VRF Cryptography to enforce generated random numbers are verifiably unbiased. A more detailed explanation can be found[ here](https://entropiclabs.io/beacon/docs/how-it-works/) in Entropic Labs' docs.
+Beacon verwendet VRF-Kryptographie, um zu gewährleisten, dass die generierten Zufallszahlen nachweislich unverfälscht sind. Eine detailliertere Erklärung finden Sie[ hier](https://entropiclabs.io/beacon/docs/how-it-works/) in den Dokumentationen von Entropic Labs.
 
-### Quickstart
+### Schnellstart
 
-For developers looking to develop contracts that utilize the Entropy Beacon, Entropic Labs' docs have a substantive explanation covering everything you need to know from start to finish right [here](https://entropiclabs.io/beacon/docs/quickstart/).
+Für Entwickler, die Verträge entwickeln wollen, die den Entropy Beacon nutzen, gibt es in den Dokumenten von Entropic Labs eine ausführliche Erklärung, die alles abdeckt, was man von Anfang bis Ende wissen muss, und zwar [hier](https://entropiclabs.io/beacon/docs/quickstart/).
 
 ### Integration
 
-Furthermore, for developers looking to integrate the Entropy Beacon into existing smart contracts, Entropic Labs' docs also have a substantive explanation on this topic that you can find [here](https://entropiclabs.io/beacon/docs/integration/).&#x20;
+Für Entwickler, die das Entropy Beacon in bestehende Smart Contracts integrieren möchten, gibt es in den Dokumenten von Entropic Labs ebenfalls eine ausführliche Erklärung zu diesem Thema, die Sie [hier](https://entropiclabs.io/beacon/docs/integration/) finden können;
 
-### Mainnet Address
+### Mainnet Adresse
 
-Entropy Beacon's mainnet address is [kujira1x623ehq3gqx9m9t8asyd9cgehf32gy94mhsw8l99cj3l2nvda2fqrjwqy5](https://finder.kujira.app/kaiyo-1/contract/kujira1x623ehq3gqx9m9t8asyd9cgehf32gy94mhsw8l99cj3l2nvda2fqrjwqy5)
+Die Mainnet-Adresse von Entropy Beacon lautet [kujira1x623ehq3gqx9m9t8asyd9cgehf32gy94mhsw8l99cj3l2nvda2fqrjwqy5](https://finder.kujira.app/kaiyo-1/contract/kujira1x623ehq3gqx9m9t8asyd9cgehf32gy94mhsw8l99cj3l2nvda2fqrjwqy5)
 
-### Helpful Links
+### Hilfreiche Links
 
-More information can be found on Entropic's [Github](https://github.com/EntropicLabs), [Twitter](https://twitter.com/Entropic\_Labs), and [Discord](https://discord.com/invite/Qp9ZcZJnKC).
-
+Weitere Informationen finden Sie auf Entropic's [Github](https://github.com/EntropicLabs), [Twitter](https://twitter.com/Entropic\_Labs) und [Discord](https://discord.com/invite/Qp9ZcZJnKC).
 
 
