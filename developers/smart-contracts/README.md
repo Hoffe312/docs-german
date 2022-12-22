@@ -1,14 +1,14 @@
 # 💡 Smart Contracts
 
-The Kujira blockchain is fully enabled with CosmWASM v1.0 and IBC v3 support, allowing you as a developer to build Rust-based smart contracts that interact with the home.
+Die Kujira-Blockchain ist vollständig mit CosmWASM v1.0 und IBC v3-Unterstützung ausgestattet, was es Ihnen als Entwickler ermöglicht, Rust-basierte Smart Contracts zu erstellen, die mit dem Haus interagieren.
 
-## Getting Started
+## Erste Schritte
 
-If you are new to CosmWASM and Smart Contracts, we recommend checking out the CW-Template repo and familiarising yourself with the basic interfaces and model of CosmWASM smart contracts.&#x20;
+Wenn Sie CosmWASM und Smart Contracts noch nicht kennen, empfehlen wir Ihnen, sich das CW-Template Repo anzuschauen und sich mit den grundlegenden Schnittstellen und dem Modell der CosmWASM Smart Contracts vertraut zu machen.&#x20;
 
 {% embed url="https://github.com/InterWasm/cw-template" %}
 
-When you are ready to deploy, you will need a local build of the chain core, in order to store your code on-chain and submit governance proposals to instantiate it.
+Wenn Sie bereit für den Einsatz sind, benötigen Sie einen lokalen Build des Chain-Kerns, um Ihren Code auf der Chain zu speichern und Governance-Vorschläge zu unterbreiten, um ihn zu instanziieren.
 
 ```bash
 git clone https://github.com/Team-Kujira/core
@@ -18,7 +18,7 @@ make install
 
 ### Deployment
 
-You're now ready to store your code on-chain:
+Sie sind nun bereit, Ihren Code auf der Chain zu speichern:
 
 ```bash
 cargo run-script optimize
@@ -29,7 +29,7 @@ kujirad keys add <local-account>
 kujirad tx wasm store <./path/to/optimized/code.wasm> --from <local-account>
 ```
 
-This will generate some logs when successfully broadcast, which contains the `code_id`:&#x20;
+Dies erzeugt bei erfolgreicher Übertragung einige Protokolle, die die `code_id`:&#x20 enthalten;
 
 ```yaml
 logs:
@@ -48,11 +48,11 @@ logs:
     type: store_code
 ```
 
-### Instantiation
+### Instanziierung
 
-Your code is now stored on-chain. You can think of it a little like a Class in an object-oriented lanaguage. We now need to create an instance of it that we can interact with.&#x20;
+Ihr Code ist nun in der Chain gespeichert. Sie können ihn sich ein wenig wie eine Klasse in einer objektorientierten Sprache vorstellen. Wir müssen nun eine Instanz davon erstellen, mit der wir interagieren können...&#x20;
 
-On Kujira, this must be done via a governance proposal, in order to maintain the quality of code and dapps running on the network.&#x20;
+Auf Kujira muss dies über einen Governance-Vorschlag geschehen, um die Qualität des Codes und der Dapps, die im Netzwerk laufen, aufrechtzuerhalten.&#x20;
 
 ```bash
 kujirad tx gov submit-proposal instantiate-contract 4 \
@@ -66,22 +66,22 @@ kujirad tx gov submit-proposal instantiate-contract 4 \
   --gas 1000000 \
   --fees 1250ukuji
 ```
+Dadurch wird der Vorschlag in einem Finanzierungsstadium erstellt. Sie können dann [https://blue.kujira.app/govern](https://blue.kujira.app/govern) besuchen, um den Vorschlag zu finanzieren und ihn zur Abstimmung zu öffnen.
 
-This will create the Proposal at a funding stage. You can then visit [https://blue.kujira.app/govern](https://blue.kujira.app/govern) to fund the proposal deposit, and open it for voting.
+Wenn die Abstimmung erfolgreich war, wird der Vertrag instanziiert und die Instanz des Vertrags erhält eine eigene Adresse. Sie können die Adresse wie folgt finden:
 
-Upon the vote passing, the contract will be instantiated and the instance of the contract will have its own address. You can find the address as so:
 
 ```bash
 kujirad query wasm list-contract-by-code 4
 ```
 
-You can now move on to building the UI for your newly deployed smart contract.
+Sie können nun mit der Erstellung der Benutzeroberfläche für Ihren neu eingerichteten Smart Contract fortfahren.
 
 {% content-ref url="../dapp-front-ends/" %}
 [dapp-front-ends](../dapp-front-ends/)
 {% endcontent-ref %}
 
-## Custom Modules
+## Benutzerdefinierte Module
 
 {% content-ref url="oracle.md" %}
 [oracle.md](oracle.md)
