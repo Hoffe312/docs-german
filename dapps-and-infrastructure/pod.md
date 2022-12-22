@@ -1,7 +1,7 @@
 ---
-description: Decentralization Enhancing Staking UI built for the Cosmos
+Beschreibung: Dezentralisierende Staking UI für den Kosmos gebaut
 ---
 
 # 📿 POD
 
-Perfection takes time.
+Perfektion braucht seine Zeit.
