@@ -1,11 +1,11 @@
 ---
-description: Wield the first 100% decentralised order book exchange on Cosmos.
+Beschreibung: Nutzen Sie die erste 100% dezentralisierte Orderbuchbörse auf Cosmos.
 ---
 
 # 📊 FIN
 
-For a demo trading bot on Fin, check out [https://github.com/TeamKujira/fin-bot-demo](https://github.com/Team-Kujira/fin-bot-demo).
+Einen Demo-Handelsbot für Fin finden Sie unter [https://github.com/TeamKujira/fin-bot-demo](https://github.com/Team-Kujira/fin-bot-demo).
 
 
 
-Query token information for all assets at [https://lcd.kaiyo.kujira.setten.io/cosmos/bank/v1beta1/supply](https://lcd.kaiyo.kujira.setten.io/cosmos/bank/v1beta1/supply).
+Abfrage von Token-Informationen für alle Vermögenswerte unter [https://lcd.kaiyo.kujira.setten.io/cosmos/bank/v1beta1/supply](https://lcd.kaiyo.kujira.setten.io/cosmos/bank/v1beta1/supply).
