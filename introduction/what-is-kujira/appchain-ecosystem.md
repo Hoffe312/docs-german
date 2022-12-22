@@ -1,19 +1,19 @@
-# 📱 Appchain Ecosystem
+# 📱 Appchain-Ökosystem
 
-Kujira is a Cosmos blockchain ecosystem driven first and foremost by its suite of synergistic, ground-breaking, and sustainable decentralized applications & infrastructure. Directly built by ‘Team Kujira’ is a bevy of high quality products:
+Kujira ist ein Cosmos-Blockchain-Ökosystem, das in erster Linie durch sein Angebot an synergetischen, bahnbrechenden und nachhaltigen dezentralen Anwendungen und Infrastrukturen angetrieben wird. Direkt vom 'Team Kujira' entwickelt, gibt es eine Reihe von hochwertigen Produkten:
 
-$$\bullet$$ [ORCA](https://orca.kujira.app/), the world’s first public marketplace for liquidated collateral
+$$\bullet$$ [ORCA](https://orca.kujira.app/), der weltweit erste öffentliche Marktplatz für verwertete Sicherheiten
 
-$$\bullet$$ [FIN](https://fin.kujira.app/), Cosmos’ first decentralized, permissionless, 100% on-chain, fair matching order book style                   $$\space \space \space$$token exchange&#x20;
+$$\bullet$$ [FIN](https://fin.kujira.app/), Cosmos' erster dezentraler, erlaubnisfreier, 100% On-Chain, fair abgestimmter Orderbuch-Stil $$\space \space \space$$Token-Tausch&#x20;
 
-$$\bullet$$ [BLUE](https://blue.kujira.app/), the heart of the Kujira ecosystem$$-$$a hub containing a KUJI dashboard, KUJI staking, $$\space \space \space \space \space$$$$\space \space \space$$governance voting, KUJI swapping, Kujira Network bridging / IBC'ing, and rewards claiming
+$$\bullet$$ [BLUE](https://blue.kujira.app/), das Herz des Kujira-Ökosystems$$-$$ ein Hub mit einem KUJI-Dashboard, KUJI-Staking, $$$\space \space \space \space \space \space \space \space$$governance voting, KUJI swapping, Kujira Network bridging / IBC'ing, und Rewards claiming
 
-$$\bullet$$ [FINDER](https://finder.kujira.app/), a tool to search for present and historical data on the Kujira blockchain
+$$\bullet$$ [FINDER](https://finder.kujira.app/), ein Tool zur Suche nach aktuellen und historischen Daten auf der Kujira-Blockchain
 
-$$\bullet$$ [USK](https://blue.kujira.app/mint), a decentralized over-collateralized stablecoin only backed by uncensorable collateral
+$$$bullet$$ [USK](https://blue.kujira.app/mint), ein dezentraler überbesicherter Stablecoin, der nur durch unzensierbare Sicherheiten abgesichert ist
 
-$$\bullet$$ [The Kujira Wallet](../../dapps-and-infrastructure/kujira-wallet.md), an upcoming sleek, next generation Cosmos wallet which will be available on $$\space \space \space$$various desktop and mobile platforms
+$$\bullet$$ [The Kujira Wallet](../../dapps-and-infrastructure/kujira-wallet.md), eine kommende schlanke Cosmos-Wallet der nächsten Generation, die auf verschiedenen Desktop- und mobilen Plattformen verfügbar sein wird
 
-$$\bullet$$ [The Kujira Senate](../../dapps-and-infrastructure/senate.md), a new powerful governance mechanism that will springboard decentralization   $$\space \space \space$$and make Kujira substantially more agile                          &#x20;
+$$\bullet$$ [Der Kujira-Senat](../../dapps-and-infrastructure/senate.md), ein neuer leistungsfähiger Governance-Mechanismus, der die Dezentralisierung $$\space \space \space$$ ankurbeln und Kujira wesentlich agiler machen wird &#x20;
 
-Similar to how [ByteDance](https://en.wikipedia.org/wiki/ByteDance) and [Microsoft Office](https://en.wikipedia.org/wiki/Microsoft\_Office) both quickly built global empires with their application suites, we believe in the effectiveness and value proposition of an appchain. Tight-knit, high-quality decentralized applications are composable primitives. They can be combined to create an emergent variety of attractive financial technologies. That is why we encourage other builders who share our core values to come build their own applications on Kujira. Be part of a movement that wants to revolutionize DeFi, making it more sustainable and accessible to retail investors, while providing informative educational content to raise awareness and allow individuals to be  responsible for their investments.
+Ähnlich wie [ByteDance](https://en.wikipedia.org/wiki/ByteDance) und [Microsoft Office](https://en.wikipedia.org/wiki/Microsoft\_Office) mit ihren Anwendungspaketen schnell globale Imperien aufgebaut haben, glauben wir an die Effektivität und den Wertbeitrag einer Appchain. Engmaschige, hochwertige dezentrale Anwendungen sind zusammensetzbare Primitive. Sie können kombiniert werden, um eine Vielzahl attraktiver Finanztechnologien zu schaffen. Aus diesem Grund ermutigen wir andere Entwickler, die unsere Grundwerte teilen, ihre eigenen Anwendungen auf Kujira zu entwickeln. Werden Sie Teil einer Bewegung, die DeFi revolutionieren will, indem sie es nachhaltiger und für Kleinanleger zugänglicher macht und gleichzeitig informative Bildungsinhalte bereitstellt, um das Bewusstsein zu schärfen und den Einzelnen in die Lage zu versetzen, Verantwortung für seine Investitionen zu übernehmen.
