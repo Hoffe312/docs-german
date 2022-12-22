@@ -1,7 +1,7 @@
 # 💰 Treasury
 
-The Treasury is a basket of different tokens that the [Kujira Senate](../../dapps-and-infrastructure/senate.md) can use to fund projects, partnerships, and improve the Kuijra network by working directly for the community.
+Die Treasury ist ein Korb verschiedener Token, die der [Kujira Senat](../../dapps-and-infrastructure/senate.md) verwenden kann, um Projekte und Partnerschaften zu finanzieren und das Kuijra-Netzwerk zu verbessern, indem er direkt für die Community arbeitet.
 
-The community fund accumulates funds as 2% of network fees (both from gas and transactions on our first party dApps and from revenue share on all third party Kujira dApps). These funds will transferred periodically to the treasury via governance. This allows the treasury to slowly refill and function as a sustainable entity over time, especially as network usage and adoption increase.&#x20;
+Der Community-Fonds akkumuliert Mittel in Höhe von 2 % der Netzwerkgebühren (sowohl aus Gas und Transaktionen auf unseren First-Party-dApps als auch aus Umsatzbeteiligungen auf allen Drittanbieter-Kujira-dApps). Diese Gelder werden in regelmäßigen Abständen über die Governance an die Staatskasse überwiesen. Auf diese Weise kann sich die Kasse langsam wieder auffüllen und mit der Zeit als nachhaltige Einheit funktionieren, insbesondere wenn die Nutzung des Netzwerks und die Akzeptanz zunehmen;
 
-Since fees on the Kujira network are paid using the in-demand network assets actually being traded or bidded on, the treasury accumulates multiple distinct assets. This gives it the flexibility to be diversified and resilient over time.
+Da die Gebühren im Kujira-Netzwerk mit den nachgefragten Netzwerk-Assets bezahlt werden, die tatsächlich gehandelt oder angeboten werden, sammelt die Schatzkammer mehrere unterschiedliche Assets an. Dies gibt ihr die Flexibilität, im Laufe der Zeit diversifiziert und widerstandsfähig zu sein.
