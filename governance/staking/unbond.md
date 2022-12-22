@@ -8,8 +8,8 @@ Sie können dies tun, indem Sie zu einem Validator navigieren, mit dem Sie einen
 
 &#x20;![](<../../.gitbook/assets/image (4).png>)
 
-Als Nächstes geben Sie einfach die Anzahl der KUJI-Token ein, die Sie freigeben möchten, und klicken unten auf die blaue Schaltfläche "KUJI freigeben", um den Freigabeprozess zu starten.&#x20;
+Als Nächstes geben Sie einfach die Anzahl der KUJI-Token ein, die Sie freigeben möchten, und klicken unten auf die blaue Schaltfläche "Unstake Kuji", um den Freigabeprozess zu starten.&#x20;
 
 &#x20; ![](<../../.gitbook/assets/image (9).png>)
 
-Während der Entstapelung von KUJI-Tokens werden keine Belohnungen für den Einsatz verdient;
+Während des Unstakens von KUJI-Tokens werden keine Belohnungen für den Einsatz verdient;
