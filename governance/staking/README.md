@@ -1,20 +1,20 @@
 # 🥩 Staking
 
-Staking is a core component of the Kujira blockchain. It is also a fundamental aspect driving KUJI's underlying value proposition which can be read more about [here](staking-overview.md). It is also an important part of securing the Kujira blockchain that revolves around bonding KUJI to specific validators.
+Staking ist eine Kernkomponente der Kujira-Blockchain. Es ist auch ein grundlegender Aspekt, der das zugrundeliegende Wertversprechen von KUJI vorantreibt, über das Sie [hier](staking-overview.md) mehr lesen können. Es ist auch ein wichtiger Teil der Sicherung der Kujira-Blockchain, bei der es um die Bindung von KUJI an bestimmte Validatoren geht.
 
-Before diving deeper into Staking, it first helps to discuss Kujira blockchain consensus.&#x20;
+Bevor wir tiefer in das Thema Staking eintauchen, hilft es zunächst, den Kujira-Blockchain-Konsens zu erörtern.&#x20;
 
-### Consensus
+### Konsens
 
-As a proof of stake blockchain, the Kujira network is secured by a verification system called the Tendermint Consensus and is powered by the [Cosmos SDK](https://cosmos.network/).&#x20;
+Als Proof-of-Stake-Blockchain ist das Kujira-Netzwerk durch ein Verifizierungssystem namens Tendermint Consensus gesichert und wird durch das [Cosmos SDK](https://cosmos.network/) unterstützt;
 
-The following sequence of steps gives a simple breakdown of Tendermint Consensus works:
+Die folgende Abfolge von Schritten gibt eine einfache Aufschlüsselung der Tendermint Consensus funktioniert:
 
-1. A validator called a proposer is chosen to submit a new block of transactions.&#x20;
-2. Validators vote in two rounds on whether they decide to accept or reject the proposed block. If it is rejected, a new proposer is selected and the process restarts.&#x20;
-3. If accepted, the block gets signed and is added to the chain.&#x20;
-4. Transaction fees and gas fees from the block are distributed to the Treasury and to validators and delegators as staking rewards. Proposers are rewarded extra for their participation.&#x20;
+1. Ein Validator, genannt Proposer, wird ausgewählt, um einen neuen Transaktionsblock einzureichen.&#x20;
+2. Die Validatoren stimmen in zwei Runden darüber ab, ob sie den vorgeschlagenen Block akzeptieren oder ablehnen. Wird er abgelehnt, wird ein neuer Antragsteller ausgewählt und der Prozess beginnt von neuem;
+3. Wird der Block akzeptiert, wird er signiert und der Kette hinzugefügt.&#x20;
+4. Die Transaktions- und Gasgebühren des Blocks werden an die Treasury und an die Validierer und Delegierer als Belohnung für den Einsatz verteilt. Die Proposer werden für ihre Teilnahme extra belohnt.&#x20;
 
-As this process repeats, new blocks are added to the chain. Each validators contains a copy of all transaction that are made on the Kujira network, which is compared against the proposed blocks of transactions before voting. Multiple independent validators participate in consensus voting, which makes it infeasible to accept false blocks. This allows validators to secure the Kujira blockchain and ensure the validity of each transaction.
+Während sich dieser Prozess wiederholt, werden der Kette neue Blöcke hinzugefügt. Jeder Validator enthält eine Kopie aller Transaktionen, die im Kujira-Netzwerk getätigt werden, die vor der Abstimmung mit den vorgeschlagenen Transaktionsblöcken verglichen wird. Mehrere unabhängige Validatoren nehmen an der Konsensabstimmung teil, was es unmöglich macht, falsche Blöcke zu akzeptieren. Auf diese Weise können die Validatoren die Kujira-Blockchain sichern und die Gültigkeit jeder Transaktion gewährleisten.
 
-A more detailed explanation on Tendermint consensus can be found [here](https://docs.tendermint.com/).
+Eine ausführlichere Erklärung zum Tendermint-Konsensus finden Sie [hier] (https://docs.tendermint.com/).
