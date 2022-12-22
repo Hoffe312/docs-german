@@ -1,5 +1,5 @@
-# ✨ Why Kujira
+# ✨ Warum Kujira
 
-### Appeal
+### Anreiz
 
-&#x20;We believe that Kujira is an especially attractive ecosystem to develop on and utilize for developers and users that share our core values. Aside from Team Kujira’s transparency, integrity, and incredible community, the network has various built in features that make it convenient for users and developers alike.
+Wir glauben, dass Kujira ein besonders attraktives Ökosystem für Entwickler und Nutzer ist, die unsere Grundwerte teilen. Neben der Transparenz, der Integrität und der unglaublichen Community des Team Kujira verfügt das Netzwerk über verschiedene eingebaute Funktionen, die es für Nutzer und Entwickler gleichermaßen bequem machen.
