@@ -1,55 +1,55 @@
 # 🔷 BLUE
 
-### Your KUJI Dashboard. Bond KUJI, Vote on Governance, Swap KUJI, Bridge to Kujira Network, and claim rewards; all in one place.
+### Dein KUJI Dashboard. Binden Sie KUJI, stimmen Sie über Governance ab, tauschen Sie KUJI, verbinden Sie sich mit dem Kujira-Netzwerk und fordern Sie Belohnungen ein - alles an einem Ort.
 
-This is the heart of the Kujira ecosystem. The place where you help shape the future of the protocol via governance. It's also where you can stake KUJI in order to earn a portion of every cent of Kujira's revenue.
+Dies ist das Herzstück des Kujira-Ökosystems. Der Ort, an dem Sie die Zukunft des Protokolls durch Governance mitgestalten. Hier können Sie auch KUJI staken, um einen Anteil an jedem Cent der Kujira-Einnahmen zu erhalten.
 
 [https://blue.kujira.app/](https://blue.kujira.app/)&#x20;
 
 ### Dashboard
 
-The OG: [https://blue.kujira.app/](https://blue.kujira.app/)&#x20;
+Der OG: [https://blue.kujira.app/](https://blue.kujira.app/)&#x20;
 
-The BLUE dashboard contains useful key Kuijra blockchain analytics including KUJI price, the KUJI tokens fully diluted value, the total liquid supply, the KUJI APR (calculated over a 30 day range), the current block height, the average block time, the total number of Kujira network transactions,  the overall chain inflation %, the overall token release schedule, you personal amount of staked KUJI, as well as a graphical break down of the total KUJI supply including the treasury.
+Das BLUE-Dashboard enthält nützliche Schlüsselanalysen zur Kuijra-Blockchain, einschließlich des KUJI-Preises, des FDV der KUJI-Token, des gesamten liquiden Angebots, des KUJI-APR (berechnet über einen Zeitraum von 30 Tagen), der aktuellen Blockhöhe, der durchschnittlichen Blockzeit, der Gesamtzahl der Kujira-Netzwerktransaktionen, der Gesamtinflation der Kette in %, des Zeitplans für die Freigabe der Token, Ihres persönlichen KUJI-Einsatzes sowie einer grafischen Aufschlüsselung des gesamten KUJI-Angebots einschließlich des Schatzes.
 
-The KUJI price on the BLUE dashboard (and wallet tab) pulls directly from Coin Gecko's API.&#x20;
+Der KUJI-Preis auf dem BLUE-Dashboard (und auf der Wallet-Registerkarte) wird direkt von der API von Coin Gecko abgerufen&#x20;
 
-The fully diluted value (FDV) of the KUJI token is calculated as the maximum supply of KUJI tokens after token vesting finishes multiplied by the current KUJI token price. Given that the max supply is \~ 122.4 million tokens, at a KUJI price of $1.20, the FDV would be equal to \~ 122.4 \* 1.2 = 146.88 million dollars. Inflationary crypto tokens often have high emissions. Their current market values-- regularly determined based on short-term token supply mechanics--may exceed future growth. KUJI sidesteps this issue. It is not inflationary, and derives value from adoption.
+Der vollständig verwässerte Wert (FDV) des KUJI-Tokens wird als maximaler Vorrat an KUJI-Tokens nach Abschluss der Token-Vesting-Phase multipliziert mit dem aktuellen KUJI-Token-Preis berechnet. Da das maximale Angebot bei 122,4 Millionen Token liegt, würde das FDV bei einem KUJI-Preis von 1,20 Dollar \~ 122,4 \* 1,2 = 146,88 Millionen Dollar betragen. Inflationäre Krypto-Token haben oft hohe Emissionen. Ihre aktuellen Marktwerte - die regelmäßig auf der Grundlage kurzfristiger Token-Angebotsmechanismen ermittelt werden - können das zukünftige Wachstum übersteigen. KUJI umgeht dieses Problem. Er ist nicht inflationär und bezieht seinen Wert aus der Akzeptanz.
 
-The liquid supply refers to the unstaked portion of the circulating KUJI supply and not locked up in some smart contract. The smaller the circulating liquid supply, the more difficult it is to purchase large amounts of KUJI.
+Das liquide Angebot bezieht sich auf den nicht abgesicherten Teil des zirkulierenden KUJI-Angebots und ist nicht in einem intelligenten Vertrag gebunden. Je kleiner der zirkulierende Flüssigkeitsvorrat ist, desto schwieriger ist es, große Mengen an KUJI zu kaufen.
 
-The current block height represents the total number of blocks produced by the [consensus algorithm](../governance/staking/#consensus) of the Kujira blockchain.
+Die aktuelle Blockhöhe stellt die Gesamtzahl der Blöcke dar, die durch den [Konsensalgorithmus](../governance/staking/#consensus) der Kujira-Blockchain erzeugt wurden.
 
-The average block time represents the average amount of time spent on average to produce a new block.
+Die durchschnittliche Blockzeit stellt die Zeit dar, die im Durchschnitt für die Erstellung eines neuen Blocks benötigt wird.
 
-The number of Kujira network transactions can help give a rough estimate of total network activity.
+Die Anzahl der Kujira-Netzwerktransaktionen kann zu einer groben Schätzung der gesamten Netzaktivität beitragen.
 
-Inflation % is the amount of new KUJI tokens created over time -- it is also a measure existing token holder dilution. Kujira has no inflation and the inflation percentage is always 0.
+Inflation % ist die Menge an neuen KUJI-Tokens, die im Laufe der Zeit geschaffen wurden - es ist auch ein Maß für die Verwässerung der bestehenden Token-Inhaber. Kujira hat keine Inflation und der Inflationsprozentsatz ist immer 0.
 
 ### Wallet
 
-The wallet tab has a few nifty features including the ability to create new vesting contracts involving any token on the Kujira blockchain, send token balances to other wallets, display the amount of each of your Kujira token balances (as well as your overall token dollar balance), display your total amount of staked KUJI, and allow for auto-conversion of user-selected assets on the Kujira blockchain to KUJI.
+Die Registerkarte "Wallet" (Brieftasche) bietet einige nützliche Funktionen, darunter die Möglichkeit, neue Vesting-Verträge mit beliebigen Token auf der Kujira-Blockchain zu erstellen, Token-Guthaben an andere Brieftaschen zu senden, den Betrag jedes einzelnen Kujira-Token-Guthabens (sowie das gesamte Token-Guthaben in Dollar) anzuzeigen, den Gesamtbetrag der eingesetzten KUJI anzuzeigen und die automatische Konvertierung von benutzerdefinierten Vermögenswerten auf der Kujira-Blockchain in KUJI zu ermöglichen.
 
-#### Creating Vesting Contracts
+#### Vesting-Verträge erstellen
 
-#### Auto-convert Assets to KUJI
+#### Vermögenswerte automatisch in KUJI umwandeln
 
 ### Swap
 
-This tab is a lite interface for performing a simple swap between any tokens. This is accomplished by placing [FIN](fin/) market orders behind the scenes. Swaps are currently limited between [FIN](fin/) market pairs.
+Diese Registerkarte ist eine einfache Schnittstelle zur Durchführung eines einfachen Swaps zwischen beliebigen Token. Dies wird durch die Platzierung von [FIN](fin/) Marktaufträgen hinter den Kulissen erreicht. Swaps sind derzeit auf [FIN](fin/)-Marktpaare beschränkt.
 
-To trade between two assets without a direct [FIN](fin/) pair, first trade for [USK](usk-stablecoin.md) or axlUSDC as necessary depending on the target asset, and then directly trade for the target asset using the BLUE swap UI. At maximum, you may need to make up to 3 trades.
+Um zwischen zwei Vermögenswerten ohne ein direktes [FIN](fin/)-Paar zu handeln, handeln Sie zuerst für [USK](usk-stablecoin.md) oder axlUSDC, je nach dem Zielwert, und handeln Sie dann direkt für den Zielwert unter Verwendung der BLUE Swap UI. Maximal müssen Sie bis zu 3 Trades durchführen.
 
 ### IBC / Bridge
 
 ### Mint
 
-The Mint tab is where USK is minted.&#x20;
+Auf der Registerkarte Münze werden die USK geprägt;
 
 ### Stake
 
-### Govern
+### Regierung
 
-#### Senate
+#### Senat
 
-#### Chain Governance
+#### Chain Verwaltung
