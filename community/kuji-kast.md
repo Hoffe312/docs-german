@@ -1,7 +1,7 @@
 # 📺 Kuji Kast
 
-A community led initiative run by @Togwos and @MaximusD that features various types of in-depth hilarious content including interviews with protocols building on Kujira, meme competitions, and other stimulating content, wink. They have a Twitter and YouTube.
+Eine von @Togwos und @MaximusD geleitete Initiative, die verschiedene Arten von detaillierten, lustigen Inhalten bietet, darunter Interviews mit Protokollen, die auf Kujira aufbauen, Meme-Wettbewerbe und andere anregende Inhalte, wink. Sie haben einen Twitter und YouTube.
 
-Kuji Kast's Twitter can be found at: [https://twitter.com/KujiKast](https://twitter.com/KujiKast)&#x20;
+Kuji Kast's Twitter ist zu finden unter: [https://twitter.com/KujiKast](https://twitter.com/KujiKast)&#x20;
 
-Kuji Kast's YouTube channel can be found here: [https://www.youtube.com/c/KujiKast](https://www.youtube.com/c/KujiKast)
+Der YouTube-Kanal von Kuji Kast ist hier zu finden: [https://www.youtube.com/c/KujiKast](https://www.youtube.com/c/KujiKast)
