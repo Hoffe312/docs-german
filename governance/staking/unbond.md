@@ -1,15 +1,15 @@
-# ⛓ Unbond
+# ⛓ Entbinden
 
-Staking KUJI on the Kujira network is an instantaneous process. Unstaking or unbonding KUJI is a bit more complicated. To unbond KUJI on the Kujira network, 14 days must lapse for the unbonding process to finish. As with Staking KUJI, KUJI can be unbonded in the [stake tab](https://blue.kujira.app/stake) on BLUE.&#x20;
+Das Einbinden von KUJI in das Kujira-Netz ist ein sofortiger Vorgang. Das Aufheben der Bindung von KUJI ist etwas komplizierter. Um die Bindung von KUJI an das Kujira-Netz aufzuheben, müssen 14 Tage vergehen, bis die Bindung aufgehoben ist. Wie beim Einsetzen von KUJI kann die Bindung von KUJI auf der Registerkarte [Einsatz] (https://blue.kujira.app/stake) auf BLUE.&#x20 aufgehoben werden;
 
-This delay helps secure and protect the Kujira network by aligning stakers' governance incentives with the value of the KUJI token. As a result, the greater percentage of KUJI supply that is staked, the more confidence in the network.
+Diese Verzögerung trägt dazu bei, das Kujira-Netzwerk zu sichern und zu schützen, indem die Governance-Anreize der Staker an den Wert des KUJI-Tokens angepasst werden. Je größer der Prozentsatz des KUJI-Angebots ist, desto größer ist das Vertrauen in das Netzwerk.
 
-This can be done by navigating to a validator that you have staked with, selecting that validator, and then clicking the unstake button.
+Sie können dies tun, indem Sie zu einem Validator navigieren, mit dem Sie einen Einsatz getätigt haben, diesen Validator auswählen und dann auf die Schaltfläche "Unstake" klicken.
 
 &#x20;![](<../../.gitbook/assets/image (4).png>)
 
-Next, simply enter an amount of KUJI tokens to unstake and click the blue Unstake KUJI button at the bottom to initiate the unstake process.&#x20;
+Als Nächstes geben Sie einfach die Anzahl der KUJI-Token ein, die Sie freigeben möchten, und klicken unten auf die blaue Schaltfläche "KUJI freigeben", um den Freigabeprozess zu starten.&#x20;
 
 &#x20; ![](<../../.gitbook/assets/image (9).png>)
 
-While KUJI tokens are in the process of unstaking, no staking rewards are earned on them.&#x20;
+Während der Entstapelung von KUJI-Tokens werden keine Belohnungen für den Einsatz verdient;
