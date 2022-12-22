@@ -1,9 +1,9 @@
-# 🌟 Integrity
+# 🌟 Integrität
 
-We pride ourselves on our high integrity in every facet of Kujira.
+Wir sind stolz auf unsere hohe Integrität in allen Bereichen von Kujira.
 
-Perhaps this was demonstrated most strongly when the Terra network collapsed and many constituents were deeply affected. We maintained constant and clear communication with all of our users 24/7 throughout the aftermath of the UST peg collapse.
+Dies zeigte sich vielleicht am deutlichsten, als das Terra-Netz zusammenbrach und viele Bürgerinnen und Bürger davon betroffen waren. Wir haben während des Zusammenbruchs des UST-Stützpfeilers rund um die Uhr eine konstante und klare Kommunikation mit allen unseren Nutzern aufrechterhalten.
 
-Four days after the initial depeg, we even released our brand new CLOB dex, FIN, and two days after that, when the Terra chain halted, we [revealed our decision](https://medium.com/team-kujira/the-future-of-kujira-485d43c4729c) to move to our own sovereign Cosmos chain.
+Vier Tage nach dem ersten Depeg haben wir sogar unseren brandneuen CLOB Dex, FIN, veröffentlicht, und zwei Tage danach, als die Terra-Kette zum Stillstand kam, haben wir [unsere Entscheidung](https://medium.com/team-kujira/the-future-of-kujira-485d43c4729c) bekannt gegeben, zu unserer eigenen souveränen Cosmos-Kette zu wechseln.
 
-We were able to launch the Kujira chain in just six weeks. Within two months of launch, the KUJI token’s valuation was already back above pre-depeg levels on Terra.
+Wir waren in der Lage, die Kujira-Kette in nur sechs Wochen zu starten. Innerhalb von zwei Monaten nach dem Start lag die Bewertung des KUJI-Tokens bereits wieder über dem Niveau vor dem Depeg auf Terra.
