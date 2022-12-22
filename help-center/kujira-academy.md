@@ -1,26 +1,26 @@
 ---
-description: >-
-  Here we guide and inform our users about the ins and outs of blockchain
-  technology
+Beschreibung: >-
+  Hier führen und informieren wir unsere Nutzer über die Besonderheiten der Blockchain
+  Technologie
 ---
 
 # 🧑🏫 Kujira Academy
 
-We want to make Kujira accessible to everyone. After we bring people into our fold, we want to allow them to keep learning so that they can make the most of decentralized finance and everything else Kujira has to offer. Kujira Academy is a space for people to inform themselves about many useful DeFi concepts that can help them make the most of everything Kujira has to offer.
+Wir wollen Kujira für alle zugänglich machen. Nachdem wir Menschen in unsere Reihen gebracht haben, wollen wir ihnen ermöglichen, weiter zu lernen, damit sie das Beste aus dem dezentralen Finanzwesen und allem anderen, was Kujira zu bieten hat, machen können. Die Kujira-Akademie ist ein Ort, an dem sich die Menschen über viele nützliche DeFi-Konzepte informieren können, die ihnen helfen, das Beste aus allem zu machen, was Kujira zu bieten hat.
 
-## Security
+## Sicherheit
 
-**What is a Private Key?:**                                                                                        [https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key](https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key)
+**Was ist ein private key?:** [https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key](https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key)
 
-Private keys - no, not the ones to your naughty feet pics, the ones that give you access to your crypto wallet. In this guide by Ledger, you’ll learn what a private key is, the difference between private and public keys and how to keep them safe.
+private key - nein, nicht die zu den Bildern mit den unanständigen Füßen, sondern die, die Ihnen Zugang zu Ihrer Krypto-Brieftasche geben. In diesem Leitfaden von Ledger erfährst du, was ein privater Schlüssel ist, was der Unterschied zwischen privaten und öffentlichen Schlüsseln ist und wie du sie sicher aufbewahren kannst.
 
-**What is a smart contract security audit?:**                                    [https://academy.binance.com/en/articles/what-is-a-smart-contract-security-audit](https://academy.binance.com/en/articles/what-is-a-smart-contract-security-audit)
+**Was ist ein Smart Contract Sicherheitsaudit?:** [https://academy.binance.com/en/articles/what-is-a-smart-contract-security-audit](https://academy.binance.com/en/articles/what-is-a-smart-contract-security-audit)
 
-While these words may sound complicated, it is worth understanding the method that underpins cybersecurity. Security audits provide an extra layer of security, with the code behind smart contracts being scrutinised by a professional third party.
+Auch wenn diese Begriffe kompliziert klingen, lohnt es sich, die Methode zu verstehen, die der Cybersicherheit zugrunde liegt. Sicherheitsprüfungen bieten eine zusätzliche Sicherheitsebene, wobei der Code hinter intelligenten Verträgen von einer professionellen dritten Partei geprüft wird.
 
-**General Security principles:**                                                   [https://academy.binance.com/en/articles/general-security-principles](https://academy.binance.com/en/articles/general-security-principles)
+**Allgemeine Sicherheitsgrundsätze:** [https://academy.binance.com/en/articles/general-security-principles](https://academy.binance.com/en/articles/general-security-principles)
 
-Unfortunately, cryptocurrency and scams appear to be synonymous with major exploits occurring frequently. This guide serves as an introduction to security in crypto and provides the mental framework necessary to keep yourself safe.
+Leider scheinen Kryptowährung und Betrug gleichbedeutend zu sein, und es kommt immer wieder zu großen Sicherheitslücken. Dieser Leitfaden dient als Einführung in die Sicherheit von Kryptowährungen und bietet den notwendigen geistigen Rahmen, um sich selbst zu schützen.
 
 **5 common crypto scams and how to avoid them:**                                    [https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them](https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them)
 
