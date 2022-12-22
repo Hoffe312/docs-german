@@ -22,256 +22,257 @@ Auch wenn diese Begriffe kompliziert klingen, lohnt es sich, die Methode zu vers
 
 Leider scheinen Kryptowährung und Betrug gleichbedeutend zu sein, und es kommt immer wieder zu großen Sicherheitslücken. Dieser Leitfaden dient als Einführung in die Sicherheit von Kryptowährungen und bietet den notwendigen geistigen Rahmen, um sich selbst zu schützen.
 
-**5 common crypto scams and how to avoid them:**                                    [https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them](https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them)
+**5 gängige Krypto-Betrugsmaschen und wie man sie vermeidet:** [https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them](https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them)
 
-When Elon Musk himself is offering to giveaway 1BTC to you, perhaps take a minute to think about how ridiculous this is. Giveaway scams are rampant on all social media, but what are the other common scams in crypto? Read this guide to find out.
+Wenn Elon Musk selbst anbietet, Ihnen 1 BTC zu schenken, sollten Sie sich vielleicht eine Minute Zeit nehmen, um darüber nachzudenken, wie lächerlich das ist. Werbegeschenke sind in allen sozialen Medien weit verbreitet, aber was sind die anderen häufigen Betrügereien in der Kryptowelt? Lesen Sie diesen Leitfaden, um es herauszufinden.
 
-**How to secure your crypto:**                                                          [https://academy.binance.com/en/articles/how-to-secure-your-cryptocurrency](https://academy.binance.com/en/articles/how-to-secure-your-cryptocurrency)
+**Wie Sie Ihre Kryptowährung sichern:** [https://academy.binance.com/en/articles/how-to-secure-your-cryptocurrency](https://academy.binance.com/en/articles/how-to-secure-your-cryptocurrency)
 
-“Not your keys, not your crypto” is a well-known phrase in crypto, but there are many other ways in which you can secure the safety of your crypto assets. Read more below:
+"Nicht Ihre Schlüssel, nicht Ihre Kryptowährung" ist ein bekannter Satz in der Kryptowährungsbranche, aber es gibt viele andere Möglichkeiten, wie Sie die Sicherheit Ihrer Kryptowährungen gewährleisten können. Lesen Sie weiter unten:
 
-**What are cookies?:** [https://academy.binance.com/en/articles/what-are-cookies](https://academy.binance.com/en/articles/what-are-cookies)
+**Was sind Cookies?:** [https://academy.binance.com/en/articles/what-are-cookies](https://academy.binance.com/en/articles/what-are-cookies)
 
-Who stole the cookie from the cookie jar? Your web browser did - find out what cookies are used for and the potential risks associated with them in this article.
+Wer hat den Keks aus der Keksdose gestohlen? Ihr Webbrowser war es - erfahren Sie in diesem Artikel, wofür Cookies verwendet werden und welche potenziellen Risiken mit ihnen verbunden sind.
 
-**How to spot scams in DeFi:**                                                                                         [https://academy.binance.com/en/articles/how-to-spot-scams-in-decentralized-finance-defi](https://academy.binance.com/en/articles/how-to-spot-scams-in-decentralized-finance-defi)&#x20;
+**Wie man Betrug in DeFi erkennt:** [https://academy.binance.com/en/articles/how-to-spot-scams-in-decentralized-finance-defi](https://academy.binance.com/en/articles/how-to-spot-scams-in-decentralized-finance-defi)&#x20;
 
-As the TVL in DeFi soars, so does the incentive to scam users. In this article, Binance Academy goes through a few red flags that investors should be cautious of before investing.
+Mit dem Anstieg der TVL in DeFi steigt auch der Anreiz, Nutzer zu betrügen. In diesem Artikel geht die Binance Academy auf einige rote Fahnen ein, die Anleger vor einer Investition beachten sollten.
 
-**How to stay safe on Discord:** [https://www.ledger.com/academy/how-to-stay-safe-on-discord](https://www.ledger.com/academy/how-to-stay-safe-on-discord)
+**Wie man auf Discord sicher bleibt:** [https://www.ledger.com/academy/how-to-stay-safe-on-discord](https://www.ledger.com/academy/how-to-stay-safe-on-discord)
 
-Are you a boomer? Do you use Discord but have no idea what you’re doing? Do you believe “CZ” when he dms you to participate in an NFT drop? If you answer yes to any of these questions, read through this article on how to protect yourself while using Discord.
+Sind Sie ein Boomer? Benutzen Sie Discord, haben aber keine Ahnung, was Sie da tun? Glaubst du "CZ", wenn er dich per SMS auffordert, an einem NFT-Drop teilzunehmen? Wenn du eine dieser Fragen mit "Ja" beantwortest, lies dir diesen Artikel durch, wie du dich bei der Nutzung von Discord schützen kannst.
 
-**What are rug pulls:** [https://www.ledger.com/academy/what-is-a-rug-pull](https://www.ledger.com/academy/what-is-a-rug-pull)
+**Was sind Rugpulls:** [https://www.ledger.com/academy/what-is-a-rug-pull](https://www.ledger.com/academy/what-is-a-rug-pull)
 
-No, this isn’t a euphemism. Read on to find out what a rug pull is and how to protect yourself from them.
+Nein, das ist kein Euphemismus. Lesen Sie weiter, um herauszufinden, was eine Abzocke ist und wie Sie sich vor ihr schützen können.
 
-## Crypto scams
+## Krypto-Betrügereien
 
-In this section, you can find 6 examples of common scams in crypto and how to best avoid them. This is not an exhaustive list but as a crypto market participant, you will likely experience at least one of the examples provided.
+In diesem Abschnitt finden Sie 6 Beispiele für gängige Krypto-Betrügereien und wie Sie sie am besten vermeiden. Dies ist keine erschöpfende Liste, aber als Teilnehmer am Kryptomarkt werden Sie wahrscheinlich mindestens eines der aufgeführten Beispiele erleben.
 
-**Imposter Scams:** [https://support.kraken.com/hc/en-us/articles/4660909653908-Impostor-scams](https://support.kraken.com/hc/en-us/articles/4660909653908-Impostor-scams)
+**Imposter-Betrügereien:** [https://support.kraken.com/hc/en-us/articles/4660909653908-Impostor-scams](https://support.kraken.com/hc/en-us/articles/4660909653908-Impostor-scams)
 
-**Phishing scams:**                                                                                                                 [https://support.kraken.com/hc/en-us/articles/115012482687-Beware-of-phishing-scams](https://support.kraken.com/hc/en-us/articles/115012482687-Beware-of-phishing-scams)
+**Phishing-Betrügereien:** [https://support.kraken.com/hc/en-us/articles/115012482687-Beware-of-phishing-scams](https://support.kraken.com/hc/en-us/articles/115012482687-Beware-of-phishing-scams)
 
-**Phone scams:**                                                                                                               [https://support.kraken.com/hc/en-us/articles/115012482487-Beware-of-phone-scams](https://support.kraken.com/hc/en-us/articles/115012482487-Beware-of-phone-scams)
+**Telefonbetrug:** [https://support.kraken.com/hc/en-us/articles/115012482487-Beware-of-phone-scams](https://support.kraken.com/hc/en-us/articles/115012482487-Beware-of-phone-scams)
 
-**Crypto Giveaway scams:**                                                                     [https://support.kraken.com/hc/en-us/articles/360057159411-Beware-of-crypto-giveaway-scams](https://support.kraken.com/hc/en-us/articles/360057159411-Beware-of-crypto-giveaway-scams)
+**Krypto-Giveaway-Betrug:** [https://support.kraken.com/hc/en-us/articles/360057159411-Beware-of-crypto-giveaway-scams](https://support.kraken.com/hc/en-us/articles/360057159411-Beware-of-crypto-giveaway-scams)
 
-**Different investment scams:**                                                                                                          [https://support.kraken.com/hc/en-us/articles/360056707972-Beware-of-investment-scams](https://support.kraken.com/hc/en-us/articles/360056707972-Beware-of-investment-scams)
+**Anlagebetrügereien:** [https://support.kraken.com/hc/en-us/articles/360056707972-Beware-of-investment-scams](https://support.kraken.com/hc/en-us/articles/360056707972-Beware-of-investment-scams)
 
-**Computer malware scams:**                                                                                                                                                                                                                                                                                                                                                                                                      [https://support.kraken.com/hc/en-us/articles/360057212951-Beware-of-computer-malware](https://support.kraken.com/hc/en-us/articles/360057212951-Beware-of-computer-malware)
+**Computer-Malware-Betrug:** [https://support.kraken.com/hc/en-us/articles/360057212951-Beware-of-computer-malware](https://support.kraken.com/hc/en-us/articles/360057212951-Beware-of-computer-malware)
 
-## Basics
+## Grundlagen
 
-**Setting up a Keplr wallet:** [https://help.keplr.app/getting-started/creating-a-new-keplr-account](https://help.keplr.app/getting-started/creating-a-new-keplr-account)
+**Einrichten einer Keplr-Brieftasche:** [https://help.keplr.app/getting-started/creating-a-new-keplr-account](https://help.keplr.app/getting-started/creating-a-new-keplr-account)
 
-For now, a Keplr wallet is required to access and use dApps on the Kujira blockchain. See here for a simple guide on setting up a Keplr wallet.
+Derzeit ist eine Keplr-Wallet erforderlich, um auf dApps auf der Kujira-Blockchain zuzugreifen und sie zu nutzen. Hier finden Sie eine einfache Anleitung zum Einrichten einer Keplr-Wallet.
 
 **APY vs APR:** [https://academy.binance.com/en/articles/apy-vs-apr-what-s-the-difference](https://academy.binance.com/en/articles/apy-vs-apr-what-s-the-difference)
 
-The two appear to be used interchangeably in crypto, yet they mean completely different things! To dispel any misconceptions, this article will contrast the two acronyms and explain their significance.
+Die beiden Akronyme scheinen in der Kryptowelt austauschbar zu sein, aber sie bedeuten völlig unterschiedliche Dinge! Um alle Missverständnisse auszuräumen, werden in diesem Artikel die beiden Akronyme gegenübergestellt und ihre Bedeutung erklärt.
 
-**What is an IDO:** [https://academy.binance.com/en/articles/what-is-an-ido-initial-dex-offering](https://academy.binance.com/en/articles/what-is-an-ido-initial-dex-offering)
+**Was ist ein IDO:** [https://academy.binance.com/en/articles/what-is-an-ido-initial-dex-offering](https://academy.binance.com/en/articles/what-is-an-ido-initial-dex-offering)
 
-As Kujira grows, more projects with their own token will look to build and deploy on our blockchain. An IDO is a cheap and simple way for these protocols to distribute their token to early investors and may be used in the future. It is therefore worth understanding the pros and cons of this model by reading this article.
+Mit dem Wachstum von Kujira werden immer mehr Projekte mit eigenem Token auf unserer Blockchain aufbauen und einsetzen wollen. Ein IDO ist eine billige und einfache Möglichkeit für diese Protokolle, ihre Token an frühe Investoren zu verteilen und kann in Zukunft verwendet werden. Es lohnt sich daher, die Vor- und Nachteile dieses Modells zu verstehen, indem Sie diesen Artikel lesen.
 
-**What is Tether (USDT):** [https://academy.binance.com/en/articles/what-is-tether-usdt](https://academy.binance.com/en/articles/what-is-tether-usdt)
+**Was ist Tether (USDT):** [https://academy.binance.com/en/articles/what-is-tether-usdt](https://academy.binance.com/en/articles/what-is-tether-usdt)
 
-Tether is the largest stablecoin by market capitalization, but how does it work and maintain its peg? Read through this article to learn more.
+Tether ist der größte Stablecoin nach Marktkapitalisierung, aber wie funktioniert er und wie hält er seine Bindung aufrecht? Lesen Sie sich diesen Artikel durch, um mehr zu erfahren.
 
-**What is a DEX?:** [https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)
+**Was ist ein DEX?:** [https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)
 
-FIN is a Decentralized 100% off-chain Orderbook-style exchange, but what does this mean? This article takes you through what a DEX is and the different types you may find in Crypto. Team Kujira has also provided comparisons of FIN’s model to its competitors which you can read here.
+FIN ist ein dezentraler, 100% Off-Chain Orderbuch-ähnlicher Austausch, aber was bedeutet das? In diesem Artikel erfahren Sie, was ein DEX ist und welche verschiedenen Arten es in der Kryptowelt gibt. Das Team Kujira hat auch Vergleiche des FIN-Modells mit seinen Konkurrenten bereitgestellt, die Sie hier lesen können.
 
-**DCA explained:** [https://academy.binance.com/en/articles/dollar-cost-averaging-dca-explained](https://academy.binance.com/en/articles/dollar-cost-averaging-dca-explained)
+**DCA erklärt:** [https://academy.binance.com/en/articles/dollar-cost-averaging-dca-explained](https://academy.binance.com/en/articles/dollar-cost-averaging-dca-explained)
 
-With a DCA strategy coming to Kujira via CALC Finance, it is important to understand what it is and evaluate its usefulness. Read through this article to prepare yourself for CALC’s inevitable launch!
+Da Kujira über CALC Finance eine DCA-Strategie anbietet, ist es wichtig zu verstehen, worum es sich dabei handelt, und ihren Nutzen zu bewerten. Lesen Sie sich diesen Artikel durch, um sich auf die unvermeidliche Einführung von CALC vorzubereiten!
 
-**What is a stablecoin?:** [https://academy.binance.com/en/articles/what-are-stablecoins](https://academy.binance.com/en/articles/what-are-stablecoins)
+**Was ist ein Stablecoin?:** [https://academy.binance.com/en/articles/what-are-stablecoins](https://academy.binance.com/en/articles/what-are-stablecoins)
 
-USK is Kujira’s native stablecoin, but what is a stablecoin and how do they work? This article will serve as an introduction to stablecoins and their potential pros/cons, with a more detailed article on USK to follow.
+USK ist Kujiras eigener Stablecoin, aber was ist ein Stablecoin und wie funktioniert er? Dieser Artikel dient als Einführung in Stablecoins und ihre möglichen Vor- und Nachteile. Ein ausführlicherer Artikel über USK wird folgen.
 
-**What is a crypto wallet?:** [https://academy.binance.com/en/articles/crypto-wallet-types-explained](https://academy.binance.com/en/articles/crypto-wallet-types-explained)
+**Was ist eine Krypto-Wallet?:** [https://academy.binance.com/en/articles/crypto-wallet-types-explained](https://academy.binance.com/en/articles/crypto-wallet-types-explained)
 
-With so many different crypto wallets in existence, which wallet should you use? Reading this article will guide you through the different types of crypto wallets, and their advantages, to aid your understanding in choosing which to use. At least you can’t leave this wallet on the train!
+Bei so vielen verschiedenen Krypto-Wallets, die es gibt, welche Wallet sollten Sie verwenden? Die Lektüre dieses Artikels wird Sie durch die verschiedenen Arten von Krypto-Wallets und ihre Vorteile führen, um Ihnen bei der Wahl der richtigen Wallet zu helfen. Wenigstens können Sie diese Brieftasche nicht im Zug liegen lassen!
 
-**What is cryptocurrency?:** [https://academy.binance.com/en/articles/what-is-cryptocurrency](https://academy.binance.com/en/articles/what-is-cryptocurrency)
+**Was ist Kryptowährung?:** [https://academy.binance.com/en/articles/what-is-cryptocurrency](https://academy.binance.com/en/articles/what-is-cryptocurrency)
 
-A question often asked by your auntie at a family gathering, what is cryptocurrency? This article is much longer than the others listed here, yet it is perfect for new market participants that need an introduction to this space. To get up-to-scratch on all things crypto-related, give this article a read!
+Was ist Kryptowährung? Diese Frage wird Ihnen oft von Ihrer Tante bei einer Familienfeier gestellt. Dieser Artikel ist viel länger als die anderen hier aufgelisteten, aber er ist perfekt für neue Marktteilnehmer, die eine Einführung in diesen Bereich benötigen. Um in Sachen Kryptowährung auf dem neuesten Stand zu sein, sollten Sie diesen Artikel lesen!
 
-**What are Nodes?:** [https://academy.binance.com/en/articles/what-are-nodes](https://academy.binance.com/en/articles/what-are-nodes)
+**Was sind Nodes?:** [https://academy.binance.com/en/articles/what-are-nodes](https://academy.binance.com/en/articles/what-are-nodes)
 
-Besides sounding like a bacterial disease, nodes support and provide security to all blockchains. Therefore, they are incredibly important to a blockchain's infrastructure and it is worth appreciating their role in the space.
+Abgesehen davon, dass sie wie eine bakterielle Krankheit klingen, unterstützen und sichern Knoten alle Blockchains. Daher sind sie unglaublich wichtig für die Infrastruktur einer Blockchain und es lohnt sich, ihre Rolle in diesem Bereich zu würdigen.
 
-**What are dApps?:** [https://academy.binance.com/en/articles/what-are-decentralized-applications-dapps](https://academy.binance.com/en/articles/what-are-decentralized-applications-dapps)
+**Was sind dApps?:** [https://academy.binance.com/en/articles/what-are-decentralized-applications-dapps](https://academy.binance.com/en/articles/what-are-decentralized-applications-dapps)
 
-Blockchains have evolved to host a huge array of different dApps with varying complexity and functions. To learn what dApps are, how they work and some popular use-cases, click below and read on!
+Blockchains haben sich so entwickelt, dass sie eine große Anzahl verschiedener dApps mit unterschiedlicher Komplexität und Funktionen beherbergen. Um zu erfahren, was dApps sind, wie sie funktionieren und einige beliebte Anwendungsfälle, klicken Sie unten und lesen Sie weiter!
 
-**What is staking?:** [https://academy.binance.com/en/articles/what-is-staking](https://academy.binance.com/en/articles/what-is-staking)
+**Was ist Staking?:** [https://academy.binance.com/en/articles/what-is-staking](https://academy.binance.com/en/articles/what-is-staking)
 
-Even better than sirloin, staking supports the security and operations of the Kujira Blockchain. Staking KUJI can earn you a variety of yield-bearing rewards, but why should you stake? This article will aid you in your understanding of what makes staking so important in a decentralized network.
+Noch besser als das Filetstück unterstützt das Staking die Sicherheit und den Betrieb der Kujira Blockchain. Der Einsatz von KUJI kann Ihnen eine Vielzahl von ertragreichen Belohnungen einbringen, aber warum sollten Sie einen Einsatz leisten? Dieser Artikel wird Ihnen helfen zu verstehen, warum der Einsatz in einem dezentralen Netzwerk so wichtig ist.
 
-**What are smart contracts?:** [https://academy.binance.com/en/articles/what-are-smart-contracts](https://academy.binance.com/en/articles/what-are-smart-contracts)
+**Was sind intelligente Verträge?:** [https://academy.binance.com/en/articles/what-are-smart-contracts](https://academy.binance.com/en/articles/what-are-smart-contracts)
 
-Put simply, smart contracts are a piece of code running on a blockchain that allows addresses to interact with each other. Although this article focuses on EVM (Ethereum Virtual Machine) smart contracts, all dApps in crypto work through the use of smart contracts. And no, there aren’t any dumb contracts.
+Vereinfacht ausgedrückt, sind Smart Contracts ein Stück Code, das auf einer Blockchain läuft und es Adressen ermöglicht, miteinander zu interagieren. Obwohl sich dieser Artikel auf EVM (Ethereum Virtual Machine) Smart Contracts konzentriert, funktionieren alle dApps in der Kryptowirtschaft durch die Verwendung von Smart Contracts. Und nein, es gibt keine dummen Verträge.
 
-**What is Proof of Stake?:** [https://academy.binance.com/en/articles/proof-of-stake-explained](https://academy.binance.com/en/articles/proof-of-stake-explained)
+**Was ist Proof of Stake?:** [https://academy.binance.com/en/articles/proof-of-stake-explained](https://academy.binance.com/en/articles/proof-of-stake-explained)
 
-Since the advent of Ethereum in 2015, many other PoS blockchains have come to fruition. In fact, the Kujira blockchain works through the Proof-of-Stake consensus mechanism, but what is it and how does it work? PS: When your Mom asks you to take the steak out of the freezer you better send her Proof of Stake…
+Seit der Einführung von Ethereum im Jahr 2015 haben sich viele andere PoS-Blockchains entwickelt. Tatsächlich funktioniert die Kujira-Blockchain über den Proof-of-Stake-Konsensmechanismus, aber was ist das und wie funktioniert es? PS: Wenn deine Mutter dich bittet, das Steak aus dem Gefrierschrank zu holen, schickst du ihr besser einen Proof-of-Stake...
 
-**What is Proof of Work?:** [https://academy.binance.com/en/articles/proof-of-work-explained](https://academy.binance.com/en/articles/proof-of-work-explained)
+**Was ist ein Proof of Work?:** [https://academy.binance.com/en/articles/proof-of-work-explained](https://academy.binance.com/en/articles/proof-of-work-explained)
 
-Now that you understand how Proof of Stake works, here is an introduction to the consensus mechanism that precedes PoS, Proof of Work.
+Da Sie nun wissen, wie Proof of Stake funktioniert, hier eine Einführung in den Konsens-Mechanismus, der PoS vorausgeht: Proof of Work.
 
-**Crypto Market Capitalization explained:** [https://academy.binance.com/en/articles/crypto-market-capitalization-explained](https://academy.binance.com/en/articles/crypto-market-capitalization-explained)
+**Krypto-Marktkapitalisierung erklärt:** [https://academy.binance.com/en/articles/crypto-market-capitalization-explained](https://academy.binance.com/en/articles/crypto-market-capitalization-explained)
 
-You may have heard the term “ Market Cap” mentioned before in both the crypto and TradFi world. It refers to the current market value of an asset, but as you read the article it will become clear this can be a misleading metric, with the diluted market cap perhaps being more accurate. Oh, and we may have some Kujira Caps coming soon ;)
+Vielleicht haben Sie den Begriff "Marktkapitalisierung" sowohl in der Krypto- als auch in der TradFi-Welt schon einmal gehört. Er bezieht sich auf den aktuellen Marktwert eines Vermögenswertes, aber wenn Sie den Artikel lesen, wird klar, dass dies eine irreführende Metrik sein kann, wobei die verwässerte Marktkapitalisierung vielleicht genauer ist. Oh, und wir haben vielleicht bald ein paar Kujira Caps ;)
 
-**Migration to Kujira Mainnet:**                                                                                            [https://medium.com/team-kujira/migration-to-kujira-mainnet-cc04d88da338](https://medium.com/team-kujira/migration-to-kujira-mainnet-cc04d88da338)
+**Migration zum Kujira Mainnet:** [https://medium.com/team-kujira/migration-to-kujira-mainnet-cc04d88da338](https://medium.com/team-kujira/migration-to-kujira-mainnet-cc04d88da338)
 
-If you still have KUJI tokens on Terra Classic and held them pre-snapshot (May 13th), you can migrate them to the Kujira blockchain by following the guide here.
+Wenn Sie noch KUJI-Token auf Terra Classic haben und sie vor dem Snapshot (13. Mai) besaßen, können Sie sie auf die Kujira-Blockchain migrieren, indem Sie der Anleitung hier folgen.
 
-**Trading on FIN:**                                                                                                                      [https://medium.com/team-kujira/guide-to-trading-on-fin-eef89d80a6a4](https://medium.com/team-kujira/guide-to-trading-on-fin-eef89d80a6a4)
+**Handel auf FIN:** [https://medium.com/team-kujira/guide-to-trading-on-fin-eef89d80a6a4](https://medium.com/team-kujira/guide-to-trading-on-fin-eef89d80a6a4)
 
-This article will guide you through your first steps on FIN, understanding the UI, and how to place trades to prepare you for a smooth trading experience.
+Dieser Artikel führt Sie durch die ersten Schritte auf FIN, das Verständnis der Benutzeroberfläche und die Platzierung von Trades, um Sie auf ein reibungsloses Handelserlebnis vorzubereiten.
 
-**What’s the Difference Between Maximum, Circulating and Total Supply?:** [https://www.coindesk.com/learn/crypto-token-supply-whats-the-difference-between-maximum-circulating-and-total-supply/](https://www.coindesk.com/learn/crypto-token-supply-whats-the-difference-between-maximum-circulating-and-total-supply/)
+**Was ist der Unterschied zwischen maximalem, zirkulierendem und gesamtem Angebot?:** [https://www.coindesk.com/learn/crypto-token-supply-whats-the-difference-between-maximum-circulating-and-total-supply/](https://www.coindesk.com/learn/crypto-token-supply-whats-the-difference-between-maximum-circulating-and-total-supply/)
 
-These 3 metrics can be extremely useful in determining the value of an asset, but which should you use? Read this article to find out what each metric describes to come to a conclusion yourself.
+Diese 3 Kennzahlen können bei der Bestimmung des Werts eines Vermögenswerts äußerst nützlich sein, aber welche sollten Sie verwenden? Lesen Sie diesen Artikel, um herauszufinden, was die einzelnen Metriken beschreiben, damit Sie sich selbst ein Urteil bilden können.
 
-## Intermediate
+## Zwischenbericht
 
-**What is DeFi?:** [https://www.ledger.com/academy/crypto/what-is-defi-decentralized-finance](https://www.ledger.com/academy/crypto/what-is-defi-decentralized-finance)
+**Was ist DeFi?:** [https://www.ledger.com/academy/crypto/what-is-defi-decentralized-finance](https://www.ledger.com/academy/crypto/what-is-defi-decentralized-finance)
 
-In this article, you can see examples of DeFi use-cases and their benefits. As the Kujira ecosystem grows, so too will the DeFi on the network so it is worth understanding how it works.
+In diesem Artikel sehen Sie Beispiele für DeFi-Anwendungsfälle und deren Vorteile. Mit dem Wachstum des Kujira-Ökosystems wird auch die DeFi im Netzwerk wachsen, so dass es sich lohnt zu verstehen, wie sie funktioniert.
 
-**What’s a blockchain bridge?:**                                                                                                                                                                                                                                              [https://academy.binance.com/en/articles/what-s-a-blockchain-bridge](https://academy.binance.com/en/articles/what-s-a-blockchain-bridge)
+**Was ist eine Blockchain-Bridge?:** [https://academy.binance.com/en/articles/what-s-a-blockchain-bridge](https://academy.binance.com/en/articles/what-s-a-blockchain-bridge)
 
-Blockchain bridges connect different blockchains within crypto, allowing communication and the transfer of assets between them. With interoperability of paramount importance in DeFi, it is essential to appreciate how bridges work and why we need them.
+Blockchain-Brücken verbinden verschiedene Blockchains innerhalb der Kryptowirtschaft und ermöglichen die Kommunikation und den Transfer von Vermögenswerten zwischen ihnen. Da die Interoperabilität in DeFi von größter Bedeutung ist, ist es wichtig zu verstehen, wie Brücken funktionieren und warum wir sie brauchen.
 
-**What is crypto lending?:** [https://www.ledger.com/academy/what-is-crypto-lending](https://www.ledger.com/academy/what-is-crypto-lending)
+**Was ist Krypto-Lending?:** [https://www.ledger.com/academy/what-is-crypto-lending](https://www.ledger.com/academy/what-is-crypto-lending)
 
-Crypto lending is an essential component of DeFi, with the TVL of money markets booming as a result. But what is crypto lending, why do users participate and how can you stay safe while taking part?
+Krypto-Lending oder auch Krypto-Kreditvergabe ist ein wesentlicher Bestandteil von DeFi, und die TVL der Geldmärkte boomt infolgedessen. Aber was ist Krypto-Lending, warum nehmen Nutzer daran teil und wie können Sie sich bei der Teilnahme schützen?
 
-**DeFi liquidations explained:** [https://www.ledger.com/academy/defi-liquidation-explained](https://www.ledger.com/academy/defi-liquidation-explained)
+**DeFi-Liquidationen erklärt:** [https://www.ledger.com/academy/defi-liquidation-explained](https://www.ledger.com/academy/defi-liquidation-explained)
 
-The crème de la crème of Kujira. ORCA deals with the liquidations of bad loans, keeping money markets solvent. For a recap on what liquidations are, and how to avoid being liquidated yourself, this article will assist you.
+Die Crème de la Crème von Kujira. ORCA befasst sich mit der Liquidation notleidender Kredite, um die Zahlungsfähigkeit der Geldmärkte aufrechtzuerhalten. In diesem Artikel erfahren Sie, was Liquidationen sind und wie Sie vermeiden können, selbst liquidiert zu werden.
 
-**What are perpetual futures contracts?:**                                   [https://academy.binance.com/en/articles/what-are-perpetual-futures-contracts](https://academy.binance.com/en/articles/what-are-perpetual-futures-contracts)
+**Was sind ewige Terminkontrakte?:** [https://academy.binance.com/en/articles/what-are-perpetual-futures-contracts](https://academy.binance.com/en/articles/what-are-perpetual-futures-contracts)
 
-Now I won’t lie, this article is one of the trickiest to understand of this list and may take a few reads to wrap your head around it. Perpetual futures allow users to leverage trade with more capital than they own, with no contract expiry date. Although this method increases your profits, it also exacerbates any losses. It is therefore wise to read this article before participating.
+Ich werde nicht lügen, dieser Artikel ist einer der am schwierigsten zu verstehenden in dieser Liste und es kann einige Zeit dauern, bis Sie ihn verstanden haben. Ewige Termingeschäfte ermöglichen es den Nutzern, mit mehr Kapital zu handeln, als sie besitzen, und zwar ohne Verfallsdatum des Vertrags. Diese Methode erhöht zwar Ihre Gewinne, verschlimmert aber auch eventuelle Verluste. Es ist daher ratsam, diesen Artikel vor der Teilnahme zu lesen.
 
-**Blockchain oracles explained:**                                                                                                                                                                                                                                     [https://academy.binance.com/en/articles/blockchain-oracles-explained](https://academy.binance.com/en/articles/blockchain-oracles-explained)
+**Blockchain-Orakel erklärt:** [https://academy.binance.com/en/articles/blockchain-oracles-explained](https://academy.binance.com/en/articles/blockchain-oracles-explained)
 
-An accurate blockchain price oracle is essential for liquidations and margin trading to run smoothly on Kujira - if there is no accurate and verifiable price data, users may be wrongfully liquidated or limit orders filled at the wrong time. However, this is just one example of the use-cases oracles provide - for more examples and an explanation of how they work, read through this article.
+Ein genaues Blockchain-Preisorakel ist für den reibungslosen Ablauf von Liquidationen und Margin-Trading auf Kujira unerlässlich - wenn es keine genauen und überprüfbaren Preisdaten gibt, können Nutzer zu Unrecht liquidiert oder Limit-Orders zum falschen Zeitpunkt ausgeführt werden. Dies ist jedoch nur ein Beispiel für die Einsatzmöglichkeiten von Orakeln - weitere Beispiele und eine Erklärung ihrer Funktionsweise finden Sie in diesem Artikel.
 
-**Impermanent loss explained:**                                           [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
+**Impermanenter Verlust erklärt:** [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
 
-Since Kujira does not use liquidity pools, users in the Kujira ecosystem will never experience impermanent loss as a result of yield farming. However, this gives us an opportunity to reinforce why the use of LPs and yield farming is a flawed model by providing an understanding of the major risk.
+Da Kujira keine Liquiditätspools einsetzt, werden die Nutzer im Kujira-Ökosystem niemals einen unbeständigen Verlust als Folge des Yield Farming erleben. Dies gibt uns jedoch die Gelegenheit zu verdeutlichen, warum die Verwendung von LPs und Yield Farming ein fehlerhaftes Modell ist, indem wir das Hauptrisiko erläutern.
 
-**Tendermint explained:** [https://academy.binance.com/en/articles/tendermint-explained](https://academy.binance.com/en/articles/tendermint-explained)
+**Tendermint erklärt:** [https://academy.binance.com/en/articles/tendermint-explained](https://academy.binance.com/en/articles/tendermint-explained)
 
-The Kujira network is built on top of the Tendermint consensus mechanism that underpins all of Cosmos. Without the giant that is Tendermint, none of the Cosmos/IBC ecosystems would exist - an appreciation of how it works is greatly recommended.
+Das Kujira-Netzwerk baut auf dem Tendermint-Konsensmechanismus auf, der die Grundlage für ganz Cosmos bildet. Ohne den Giganten Tendermint würde keines der Cosmos/IBC-Ökosysteme existieren - ein Verständnis für seine Funktionsweise wird dringend empfohlen.
 
-**What are makers and takers explained:**                                                                              [https://academy.binance.com/en/articles/what-are-makers-and-takers](https://academy.binance.com/en/articles/what-are-makers-and-takers)
+**Was sind Macher und Nehmer erklärt:** [https://academy.binance.com/en/articles/what-are-makers-and-takers](https://academy.binance.com/en/articles/what-are-makers-and-takers)
 
-On Kujira, makers and takers pay different fees, with makers paying far less. To understand what the difference is between the two, and why makers pay less in fees, read this article.
+Auf Kujira zahlen Maker und Taker unterschiedliche Gebühren, wobei Maker deutlich weniger zahlen. Um zu verstehen, was der Unterschied zwischen den beiden ist und warum Maker weniger Gebühren zahlen, lesen Sie diesen Artikel.
 
-**Liquidity explained:** [https://academy.binance.com/en/articles/liquidity-explained](https://academy.binance.com/en/articles/liquidity-explained)
+**Liquidität erklärt:** [https://academy.binance.com/en/articles/liquidity-explained](https://academy.binance.com/en/articles/liquidity-explained)
 
-What is liquidity and why is it important? Since liquidity is a good way to measure the health of a market, we recommend reading this article.
+Was ist Liquidität und warum ist sie wichtig? Da die Liquidität ein gutes Mittel ist, um die Gesundheit eines Marktes zu messen, empfehlen wir Ihnen, diesen Artikel zu lesen.
 
-**How is cryptocurrency taxed?:**                                                                                           [https://academy.binance.com/en/articles/how-is-cryptocurrency-taxed](https://academy.binance.com/en/articles/how-is-cryptocurrency-taxed)
 
-Tax in crypto is so unbelievably complicated that it may seem easier to just forget about it. Yet I can assure you, the tax man is out to get you… Learn more about how crypto is taxed, how it is paid and the risks of ignoring it all together.
+**Wie wird Kryptowährung besteuert?:** [https://academy.binance.com/en/articles/how-is-cryptocurrency-taxed](https://academy.binance.com/en/articles/how-is-cryptocurrency-taxed)
 
-**What is tokenomics and why does it matter:**                                                                                                                                                      [https://academy.binance.com/en/articles/what-is-tokenomics-and-why-does-it-matter](https://academy.binance.com/en/articles/what-is-tokenomics-and-why-does-it-matter)
+Die Besteuerung von Kryptowährungen ist so unglaublich kompliziert, dass es einfacher erscheinen mag, sie einfach zu vergessen. Ich kann Ihnen jedoch versichern, dass das Finanzamt es auf Sie abgesehen hat... Erfahren Sie mehr darüber, wie Kryptowährungen besteuert werden, wie sie bezahlt werden und welche Risiken bestehen, wenn man sie einfach ignoriert.
 
-Poor tokenomics can turn the best builders in the space into an investor's nightmare. The term is coined from the words “Token Economics” and broadly describes a range of variables that impact a token’s use and value. To learn how these elements contribute to an assets value, read this article.
+**Was ist Tokenomics und warum ist es wichtig:** [https://academy.binance.com/en/articles/what-is-tokenomics-and-why-does-it-matter](https://academy.binance.com/en/articles/what-is-tokenomics-and-why-does-it-matter)
 
-**What is a Layer 1 in Blockchain:**                                                                                                                                                                                                           [https://academy.binance.com/en/articles/what-is-layer-1-in-blockchain](https://academy.binance.com/en/articles/what-is-layer-1-in-blockchain)
+Schlechte Tokenomics können die besten Bauherren in diesem Bereich in den Albtraum eines Investors verwandeln. Der Begriff setzt sich aus den Wörtern "Token Economics" (Tokenökonomie) zusammen und beschreibt im Großen und Ganzen eine Reihe von Variablen, die sich auf die Verwendung und den Wert eines Tokens auswirken. Um zu erfahren, wie diese Elemente zum Wert eines Vermögenswertes beitragen, lesen Sie diesen Artikel.
 
-Kujira is a new Layer 1 blockchain built on the Cosmos network. Put simply, a layer 1 processes and finalizes transactions on its own blockchain and can be built upon to provide another layer of infrastructure - layer 2. This article will take you through what layer 1s are, some issues with scalability and finally some examples present currently in crypto.
+**Was ist eine Schicht 1 in der Blockchain:** [https://academy.binance.com/en/articles/what-is-layer-1-in-blockchain](https://academy.binance.com/en/articles/what-is-layer-1-in-blockchain)
 
-## Trading
+Kujira ist eine neue Layer-1-Blockchain, die auf dem Cosmos-Netzwerk aufbaut. Einfach ausgedrückt, verarbeitet und schließt eine Schicht 1 Transaktionen auf ihrer eigenen Blockchain ab und kann darauf aufgebaut werden, um eine weitere Schicht der Infrastruktur - Schicht 2 - bereitzustellen. In diesem Artikel erfahren Sie, was Layer 1 ist, welche Probleme es mit der Skalierbarkeit gibt und schließlich einige Beispiele, die derzeit in der Kryptowirtschaft zu finden sind.
 
-**What is a trading journal and how to use one:**                                                         [https://academy.binance.com/en/articles/what-is-a-trading-journal-and-how-to-use-one](https://academy.binance.com/en/articles/what-is-a-trading-journal-and-how-to-use-one)
+## Handel
 
-Keeping a trading journal is essential to progress as a trader. It keeps you accountable, disciplined, and provides the documentation required to learn from mistakes and recognize winning habits. Read more on how to create and sustain one here.
+**Was ist ein Handelsjournal und wie man es benutzt:** [https://academy.binance.com/en/articles/what-is-a-trading-journal-and-how-to-use-one](https://academy.binance.com/en/articles/what-is-a-trading-journal-and-how-to-use-one)
 
-**What is Scalp Trading in Crypto?:**                                              [https://academy.binance.com/en/articles/what-is-scalping-trading-in-cryptocurrency](https://academy.binance.com/en/articles/what-is-scalping-trading-in-cryptocurrency)
+Das Führen eines Handelsjournals ist unerlässlich, um als Trader Fortschritte zu machen. Es hält Sie verantwortlich, diszipliniert und bietet die notwendige Dokumentation, um aus Fehlern zu lernen und erfolgreiche Gewohnheiten zu erkennen. Lesen Sie hier mehr darüber, wie Sie ein solches Tagebuch erstellen und führen können.
 
-&#x20;Find yourself staring at the 1-minute chart like an adrenaline junkie? Scalp trading might be for you! Learn how it works, and a few examples of scalping methods in this article.
+**Was ist Scalp Trading in Krypto?:** [https://academy.binance.com/en/articles/what-is-scalping-trading-in-cryptocurrency](https://academy.binance.com/en/articles/what-is-scalping-trading-in-cryptocurrency)
 
-**Beginners guide to swing trading in crypto:**                                       [https://academy.binance.com/en/articles/a-beginners-guide-to-swing-trading-cryptocurrency](https://academy.binance.com/en/articles/a-beginners-guide-to-swing-trading-cryptocurrency)
+Starrst du auf den 1-Minuten-Chart wie ein Adrenalin-Junkie? Dann könnte Scalp Trading etwas für Sie sein! In diesem Artikel erfahren Sie, wie es funktioniert, und erhalten einige Beispiele für Scalping-Methoden.
 
-Swing trading focuses more on short-mid timeframe price movements, resulting in a more relaxed trading style. This vastly contrasts the techniques taught in the scalp trading article, so an understanding of both methods is useful for beginners to decide on their favored trading style.
+**Anfänger-Leitfaden zum Swing-Trading in Kryptowährungen:** [https://academy.binance.com/en/articles/a-beginners-guide-to-swing-trading-cryptocurrency](https://academy.binance.com/en/articles/a-beginners-guide-to-swing-trading-cryptocurrency)
 
-**What is Fundamental Analysis?:**                                              [https://academy.binance.com/en/articles/what-is-fundamental-analysis-fa](https://academy.binance.com/en/articles/what-is-fundamental-analysis-fa)
+Beim Swing-Trading liegt der Schwerpunkt eher auf Kursbewegungen im kurzen bis mittleren Zeitrahmen, was zu einem entspannteren Handelsstil führt. Dies steht im krassen Gegensatz zu den Techniken, die im Artikel zum Scalp-Trading gelehrt werden, so dass ein Verständnis beider Methoden für Anfänger nützlich ist, um sich für ihren bevorzugten Handelsstil zu entscheiden.
 
-**Basics of Support and Resistance explained:**                          [https://academy.binance.com/en/articles/the-basics-of-support-and-resistance-explained](https://academy.binance.com/en/articles/the-basics-of-support-and-resistance-explained)
+**Was ist Fundamentalanalyse?:** [https://academy.binance.com/en/articles/what-is-fundamental-analysis-fa](https://academy.binance.com/en/articles/what-is-fundamental-analysis-fa)
 
-**What is BTC dominance:** [https://academy.binance.com/en/articles/what-is-btc-dominance](https://academy.binance.com/en/articles/what-is-btc-dominance)
+**Grundlagen der Unterstützung und des Widerstands erklärt:** [https://academy.binance.com/en/articles/the-basics-of-support-and-resistance-explained](https://academy.binance.com/en/articles/the-basics-of-support-and-resistance-explained)
 
-**How to calculate position size in trading:**                           [https://academy.binance.com/en/articles/how-to-calculate-position-size-in-trading](https://academy.binance.com/en/articles/how-to-calculate-position-size-in-trading)
+**Was ist BTC-Dominanz:** [https://academy.binance.com/en/articles/what-is-btc-dominance](https://academy.binance.com/en/articles/what-is-btc-dominance)
 
-**Beginners guide to classical chart patterns:**                       [https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
+**Wie berechnet man die Positionsgröße beim Trading:** [https://academy.binance.com/en/articles/how-to-calculate-position-size-in-trading](https://academy.binance.com/en/articles/how-to-calculate-position-size-in-trading)
 
-**Beginners guide to Risk Management:**                                    [https://academy.binance.com/en/articles/a-beginners-guide-to-understanding-risk-management](https://academy.binance.com/en/articles/a-beginners-guide-to-understanding-risk-management)
+**Anfängerleitfaden für klassische Chartmuster:** [https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
 
-**What is Technical Analysis?:** [https://academy.binance.com/en/articles/what-is-technical-analysis](https://academy.binance.com/en/articles/what-is-technical-analysis)
+**Anfänger-Leitfaden zum Risikomanagement:** [https://academy.binance.com/en/articles/a-beginners-guide-to-understanding-risk-management](https://academy.binance.com/en/articles/a-beginners-guide-to-understanding-risk-management)
 
-**What are Stop loss and take-profit levels, and how to calculate them:** [https://academy.binance.com/en/articles/what-are-stop-loss-and-take-profit-levels-and-how-to-calculate-them](https://academy.binance.com/en/articles/what-are-stop-loss-and-take-profit-levels-and-how-to-calculate-them)
+**Was ist technische Analyse?:** [https://academy.binance.com/en/articles/what-is-technical-analysis](https://academy.binance.com/en/articles/what-is-technical-analysis)
 
-**What is leverage in crypto trading?:**                                         [https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading)
+**Was sind Stop-Loss- und Take-Profit-Levels und wie berechnet man sie:** [https://academy.binance.com/en/articles/what-are-stop-loss-and-take-profit-levels-and-how-to-calculate-them](https://academy.binance.com/en/articles/what-are-stop-loss-and-take-profit-levels-and-how-to-calculate-them)
+
+**Was ist eine Hebelwirkung beim Krypto-Handel:** [https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading)
 
 #### Backtesting
 
-**What is backtesting?:** [https://academy.binance.com/en/articles/what-is-backtesting](https://academy.binance.com/en/articles/what-is-backtesting)
+**Was ist Backtesting?:** [https://academy.binance.com/en/articles/what-is-backtesting](https://academy.binance.com/en/articles/what-is-backtesting)
 
-As a computer nerd with bad posture, I could really do with some backtesting… But what is backtesting in trading and how can you use it to improve your performance?
+Als Computerfreak mit schlechter Körperhaltung könnte ich Backtesting wirklich gut gebrauchen... Aber was ist Backtesting im Handel und wie können Sie es nutzen, um Ihre Leistung zu verbessern?
 
-**How to backtest a trading strategy?:**                                     [https://academy.binance.com/en/articles/how-to-backtest-a-trading-strategy](https://academy.binance.com/en/articles/how-to-backtest-a-trading-strategy)
+**Wie kann man eine Handelsstrategie backtesten?:** [https://academy.binance.com/en/articles/how-to-backtest-a-trading-strategy](https://academy.binance.com/en/articles/how-to-backtest-a-trading-strategy)
 
-#### Shorting
+#### Leerverkäufe
 
-**What is shorting in financial markets?:**                                [https://academy.binance.com/en/articles/what-is-shorting-in-the-financial-markets](https://academy.binance.com/en/articles/what-is-shorting-in-the-financial-markets)
+**Was sind Leerverkäufe auf den Finanzmärkten?:** [https://academy.binance.com/en/articles/what-is-shorting-in-the-financial-markets](https://academy.binance.com/en/articles/what-is-shorting-in-the-financial-markets)
 
-Finally, being short can be a good thing! Shorting is a method of selling an asset in the hopes that you can buy it back cheaper to profit off an asset’s decline. Find out how it works and the potential risks associated with it here.
+Leerverkäufe können schließlich eine gute Sache sein! Leerverkäufe sind eine Methode, bei der ein Vermögenswert in der Hoffnung verkauft wird, dass man ihn billiger zurückkaufen kann, um vom Rückgang des Wertes zu profitieren. Wie das funktioniert und welche potenziellen Risiken damit verbunden sind, erfahren Sie hier.
 
-**What is a short squeeze?:** [https://academy.binance.com/en/articles/what-is-a-short-squeeze](https://academy.binance.com/en/articles/what-is-a-short-squeeze)
+**Was ist ein Short Squeeze?:** [https://academy.binance.com/en/articles/what-is-a-short-squeeze](https://academy.binance.com/en/articles/what-is-a-short-squeeze)
 
 
 
-**What is Margin Trading?:** [https://academy.binance.com/en/articles/what-is-margin-trading](https://academy.binance.com/en/articles/what-is-margin-trading)
+**Was ist Margin Trading?:** [https://academy.binance.com/en/articles/what-is-margin-trading](https://academy.binance.com/en/articles/what-is-margin-trading)
 
-**What is MACD indicator?:** [https://academy.binance.com/en/articles/macd-indicator-explained](https://academy.binance.com/en/articles/macd-indicator-explained)
+**Was ist der MACD-Indikator?:** [https://academy.binance.com/en/articles/macd-indicator-explained](https://academy.binance.com/en/articles/macd-indicator-explained)
 
-This indicator will literally beep when close to your nearest MacDonalds. Ok seriously, MACD uses moving averages that converge/diverge to produce trading signals. Learn more about how they work and how to use them in this guide.
+Dieser Indikator piept buchstäblich, wenn Sie sich dem nächsten MacDonalds nähern. Aber im Ernst: Der MACD verwendet gleitende Durchschnitte, die konvergieren/divergieren, um Handelssignale zu erzeugen. In diesem Leitfaden erfahren Sie mehr darüber, wie sie funktionieren und wie Sie sie einsetzen können.
 
-**What is stochastic RSI?:** [https://academy.binance.com/en/articles/stochastic-rsi-explained](https://academy.binance.com/en/articles/stochastic-rsi-explained)
+**Was ist der stochastische RSI?:** [https://academy.binance.com/en/articles/stochastic-rsi-explained](https://academy.binance.com/en/articles/stochastic-rsi-explained)
 
-**What is RSI?:** [https://academy.binance.com/en/articles/what-is-the-rsi-indicator](https://academy.binance.com/en/articles/what-is-the-rsi-indicator)
+**Was ist RSI?:** [https://academy.binance.com/en/articles/what-is-the-rsi-indicator](https://academy.binance.com/en/articles/what-is-the-rsi-indicator)
 
-**What are Bollinger Bands?:** [https://academy.binance.com/en/articles/bollinger-bands-explained](https://academy.binance.com/en/articles/bollinger-bands-explained)
+**Was sind Bollinger Bands?:** [https://academy.binance.com/en/articles/bollinger-bands-explained](https://academy.binance.com/en/articles/bollinger-bands-explained)
 
-## Orderbook
+## Orderbuch
 
-**Order Book Explained for Beginners:** [https://learn.bybit.com/en/trading/order-book-explained-for-beginners/](https://learn.bybit.com/en/trading/order-book-explained-for-beginners/)
+**Orderbuch erklärt für Einsteiger:** [https://learn.bybit.com/en/trading/order-book-explained-for-beginners/](https://learn.bybit.com/en/trading/order-book-explained-for-beginners/)
 
-**Market Orders:** [https://academy.binance.com/en/glossary/market-order](https://academy.binance.com/en/glossary/market-order)
+**Markt-Orders:** [https://academy.binance.com/en/glossary/market-order](https://academy.binance.com/en/glossary/market-order)
 
 **Limit Orders:** [https://academy.binance.com/en/articles/what-is-a-limit-order](https://academy.binance.com/en/articles/what-is-a-limit-order)
 
-**Market vs Limit order:**                                          [https://www.investopedia.com/ask/answers/100314/whats-difference-between-market-order-and-limit-order.asp](https://www.investopedia.com/ask/answers/100314/whats-difference-between-market-order-and-limit-order.asp)
+**Markt vs. Limit-Order:** [https://www.investopedia.com/ask/answers/100314/whats-difference-between-market-order-and-limit-order.asp](https://www.investopedia.com/ask/answers/100314/whats-difference-between-market-order-and-limit-order.asp)
 
-**Bid-ask spread and slippage explained:**                                  [https://academy.binance.com/en/articles/bid-ask-spread-and-slippage-explained](https://academy.binance.com/en/articles/bid-ask-spread-and-slippage-explained)
+**Geld-Brief-Spanne und Slippage erklärt:** [https://academy.binance.com/en/articles/bid-ask-spread-and-slippage-explained](https://academy.binance.com/en/articles/bid-ask-spread-and-slippage-explained)
 
-**Depth of Market:** [https://www.investopedia.com/terms/d/depth-of-market.asp](https://www.investopedia.com/terms/d/depth-of-market.asp)
+**Markttiefe:** [https://www.investopedia.com/terms/d/depth-of-market.asp](https://www.investopedia.com/terms/d/depth-of-market.asp)
 
-**Price Impact:** [https://coinmarketcap.com/alexandria/glossary/price-impact](https://coinmarketcap.com/alexandria/glossary/price-impact)
+**Preisauswirkungen:** [https://coinmarketcap.com/alexandria/glossary/price-impact](https://coinmarketcap.com/alexandria/glossary/price-impact)
 
-## What's Next?
+## Wie geht es weiter?
 
-With time we will add a breakdown of lessons about different DeFi + payment concepts that are relevant to the Kujira ecosystem. Some of these may walk you through nifty strategies you can exercise to leverage the most out of the Kujira ecosystem. Others may focus on communicating important concepts that allow you to make the most out of investing in crypto and in projects on Kujira.
+Mit der Zeit werden wir eine Aufschlüsselung der Lektionen über verschiedene DeFi + Zahlungskonzepte hinzufügen, die für das Kujira-Ökosystem relevant sind. Einige dieser Lektionen werden Sie durch raffinierte Strategien führen, die Sie anwenden können, um das Kujira-Ökosystem optimal zu nutzen. Andere werden sich auf die Vermittlung wichtiger Konzepte konzentrieren, die es Ihnen ermöglichen, das Beste aus Investitionen in Kryptowährungen und Projekte auf Kujira zu machen.
