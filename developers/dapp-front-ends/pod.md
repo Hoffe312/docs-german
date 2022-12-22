@@ -1,3 +1,3 @@
 # 📿 POD
 
-Perfection takes time.
+Perfektion braucht Zeit
