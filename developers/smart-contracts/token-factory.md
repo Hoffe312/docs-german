@@ -1,24 +1,24 @@
-# 🏭 Token Factory
+# 🏭 Token Fabrik
 
-The Token Factory allows you to create your own native denoms, as recognised by the Cosmos SDK Bank Module.&#x20;
+Mit der Token Fabrik können Sie Ihre eigenen, vom Cosmos SDK Bank Module anerkannten Denoms erstellen.&#x20;
 
-This allows your protocol to issue its own token, without needing to support the CW20 standard. It means that all tokens on the Kujira network are compatible as gas-fee payments, and can be collected as protocol revenue and distributed to KUJI stakers.&#x20;
+Dadurch kann Ihr Protokoll seine eigenen Token ausgeben, ohne den CW20-Standard unterstützen zu müssen. Das bedeutet, dass alle Token im Kujira-Netzwerk als Gasgebührenzahlungen kompatibel sind und als Protokolleinnahmen gesammelt und an die KUJI-Staker verteilt werden können.&#x20;
 
 ### CLI
 
-Create a denom
+Einen Denom erstellen
 
 ```
 kujirad tx denom create-denom mydenom
 ```
 
-Mint it
+Minten
 
 ```
 kujirad tx denom mint 10000factory/kujira12345/mydenom kujira123...
 ```
 
-and Burn it
+und burnen
 
 ```
 kujirad tx denom burn 10000factory/kujira12345/mydenom 
@@ -26,13 +26,13 @@ kujirad tx denom burn 10000factory/kujira12345/mydenom
 
 ### CosmWASM Bindings
 
-These commands can also be issued via your smart contracts. Please refer to the bindings published in kujira-rs:&#x20;
+Diese Befehle können auch über Ihre Smart Contracts ausgegeben werden. Bitte beachten Sie die in kujira-rs veröffentlichten Bindings:&#x20;
 
 {% embed url="https://docs.rs/kujira/0.7.5/kujira/msg/enum.KujiraMsg.html" %}
 
-#### Creation
+#### Erstellung
 
-In order for the contract to be able to mint and burn a denom, it will need to be created by the contract itself, often upon instantation:&#x20;
+Damit der Vertrag einen Denom minten und burnen kann, muss er vom Vertrag selbst erstellt werden, oft bei der Instantiierung:&#x20;
 
 ```rust
 use kujira::msg::{DenomMsg, KujiraMsg};
@@ -58,7 +58,7 @@ pub fn instantiate(
 
 #### Minting & Burning
 
-Now your contract is the owner of the denom, we can mint and burn tokens. Here is an example contract whose purpose is to provide a permissioned list of addresses that can mint and burn, instead of just the admin:
+Nun, da Ihr Vertrag der Eigentümer des Denom ist, können wir Token minten und verbrennen. Hier ist ein Beispielvertrag, dessen Zweck es ist, eine berechtigte Liste von Adressen zu erstellen, die Coins minten und burnen können, anstatt nur den Administrator:
 
 ```rust
 #[cfg_attr(not(feature = "library"), entry_point)]
