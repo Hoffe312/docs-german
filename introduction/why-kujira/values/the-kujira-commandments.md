@@ -1,18 +1,18 @@
 ---
-description: These 10 Commandments guide us every day in our work
+Beschreibung: Diese 10 Gebote leiten uns jeden Tag bei unserer Arbeit
 ---
 
-# 📖 The Kujira Commandments
+# 📖 Die Kujira-Gebote
 
 
 
-1. We are honest and transparent. We like to underpromise and overdeliver.
-2. As the Kuijra platform expands, aspiring projects & teams should embrace a real, sustainable business model. We encourage sustainable fees based on real user volume and/or real revenue generation. Business models with inflationary tokens are better suited for other chains instead.&#x20;
-3. We want builders who care about their community. Everyone deserves to be a whale.&#x20;
-4. Kujira is a supportive community. The core team and our community members will help promote, market, and bring liquidity to projects building on Kujira.&#x20;
-5. Kujira protects its community. Rather than “gimmicky” projects, we want valuable projects that are built to last.&#x20;
-6. Cooperation between our dApps and teams building on Kujira is a must. We are in this together. If we do not stick together, we will not succeed. We are a small platform and need to build network effects and community collectively. “Let’s play nice” and “No PVP” are our mottos.&#x20;
-7. We are open-minded. We are interested in new ideas that others may quickly dismiss.
-8. &#x20;The Kujira community is collaborative and sees crypto as a growing pie - not a zero sum game.&#x20;
-9. We believe in providing value over incumbency. We are not afraid to challenge the status quo and embrace our own systems as long as we think they are better.&#x20;
-10. We want to bring the next billion people into DeFi. To that end, we want to create real, valuable technology that gets adopted. Rather than focusing on one-off projects, we are eager to work on building synergistic DeFi money legos.
+1. Wir sind ehrlich und transparent. Wir mögen es wenig zuversprechen und zu viel zu liefern.
+2. Während die Kuijra-Plattform expandiert, sollten aufstrebende Projekte und Teams ein echtes, nachhaltiges Geschäftsmodell verfolgen. Wir fördern nachhaltige Gebühren, die auf dem realen Nutzervolumen und/oder der realen Umsatzgenerierung basieren. Geschäftsmodelle mit inflationären Token sind besser für andere Ketten geeignet.&#x20;
+3. Wir wollen Builder, die sich um ihre Community kümmern. Jeder verdient es, ein Wal zu sein.&#x20;
+4. Kujira ist eine unterstützende Gemeinschaft. Das Kernteam und unsere Community-Mitglieder werden dabei helfen, Projekte, die auf Kujira gebaut werden, zu fördern, zu vermarkten und die Liquidität zu erhöhen.&#x20;
+5. Kujira schützt seine Gemeinschaft. Anstelle von "Gimmicky"-Projekten wollen wir wertvolle Projekte, die für die Zukunft gebaut sind;
+6. Die Zusammenarbeit zwischen unseren dApps und Teams, die auf Kujira aufbauen, ist ein Muss. Wir sind hier gemeinsam unterwegs. Wenn wir nicht zusammenhalten, werden wir nicht erfolgreich sein. Wir sind eine kleine Plattform und müssen gemeinsam Netzwerkeffekte und eine Gemeinschaft aufbauen. "Let's play nice" und "No PVP" sind unsere Mottos.&#x20;
+7. Wir sind weltoffen. Wir sind an neuen Ideen interessiert, die andere vielleicht schnell wieder verwerfen.
+8. &#x20;Die Kujira-Gemeinschaft ist kollaborativ und sieht Krypto als wachsenden Kuchen - nicht als Nullsummenspiel.&#x20;
+9. Wir glauben an die Bereitstellung von Werten statt an die Etablierung. Wir haben keine Angst, den Status quo in Frage zu stellen und unsere eigenen Systeme zu entwickeln, solange wir glauben, dass sie besser sind.&#x20;
+10. Wir wollen die nächste Milliarde Menschen in DeFi bringen. Zu diesem Zweck wollen wir echte, wertvolle Technologie schaffen, die angenommen wird. Anstatt uns auf einmalige Projekte zu konzentrieren, möchten wir daran arbeiten, synergetische DeFi-Geldlegos zu bauen.
