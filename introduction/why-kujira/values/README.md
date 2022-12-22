@@ -1,3 +1,3 @@
-# ⚖ Values
+# ⚖ Werte
 
-Our core values are central to everything that we stand for. They are what stoke the fires underlying our motivations to build high grade products and infrastructure.
+Unsere Grundwerte sind das Herzstück von allem, wofür wir stehen. Sie sind das Feuer, das unsere Motivation für den Bau hochwertiger Produkte und Infrastrukturen entfacht.
