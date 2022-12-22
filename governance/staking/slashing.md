@@ -1,22 +1,22 @@
 # ❌ Slashing
 
-Running a validator is an important responsibility. Validators must meet strict standards and constantly monitor the network and participate in [consensus](./#consensus). Validators that misbehave and fail to meet these standards are slashed as a penalty.&#x20;
+Die Leitung eines Validators ist eine wichtige Aufgabe. Validatoren müssen strenge Standards erfüllen, das Netzwerk ständig überwachen und am [Konsens](./#Konsens) teilnehmen. Validatoren, die sich falsch verhalten und diese Standards nicht einhalten, werden zur Strafe geslashed.&#x20;
 
-**When a validator is slashed, they lose a small portion of their self-staked KUJI as well as a small portion of their delegators' stakes.** Slashed validators are jailed and excluded from securing the network until they take appropriate action to unjail themselves. While validators are jailed, they cannot be slashed any further and this gives them time to gather their bearings while minimizing any damage to their delegators.
+**Wenn ein Validator "geslashed" wird, verliert er einen kleinen Teil seiner selbst gesetzten KUJI sowie einen kleinen Teil der Einsätze seiner Delegatoren.** "Slashed"-Validatoren werden inhaftiert und von der Sicherung des Netzwerks ausgeschlossen, bis sie geeignete Maßnahmen ergreifen, um sich selbst zu entlassen. Solange die Validatoren inhaftiert sind, können sie nicht weiter geslashed werden, was ihnen Zeit gibt, sich zu sammeln und gleichzeitig den Schaden für ihre Delegierten zu minimieren.
 
-Slashing occurs under each of the following circumstances:&#x20;
+Das Slashing erfolgt unter den folgenden Umständen:&#x20;
 
-**Double Signing**: A validator signs two different blocks with the same chain ID at the same height
+**Doppelunterzeichnung**: Ein Validator signiert zwei verschiedene Blöcke mit der gleichen Chain-ID auf der gleichen Höhe.
 
-Make sure validators you delegate to are protected against Double Signing. This suffers the most severe slashing penalty of 5% of the validator's and each delegator's staked positions.&#x20;
+Stellen Sie sicher, dass die Validatoren, an die Sie delegieren, gegen Double Signing geschützt sind. In diesem Fall wird die schwerste Strafe von 5 % des Einsatzes des Validierers und jedes Delegierers fällig &#x20;
 
-**Downtime**: A Validator cannot be reached and is unresponsive for a period of time.&#x20;
+**Ausfallzeit**: Ein Validator kann nicht erreicht werden und ist für eine gewisse Zeit nicht ansprechbar.&#x20;
 
-This can happen to interruption of service. This receives a less severe slashing penalty of 0.01% of the validator's and each delegator's staked positions.&#x20;
+Dies kann zu einer Unterbrechung des Dienstes führen. Dies wird mit einer weniger strengen Strafe von 0,01% des Einsatzes des Validators und jedes Delegators geahndet.&#x20;
 
-**Missed votes**: Validators must vote as part of Kujira blockchain consensus. &#x20;
+**Vermisste Stimmen**: Validatoren müssen als Teil des Kujira-Blockchain-Konsens abstimmen. &#x20;
 
-Validators on the Kuijra network may miss votes on Kujira price oracles, for example. It is important to stake with validators that minimize any missed votes. This also receives a less severe slashing penalty of 0.01% of the validator's and each delegator's staked positions.&#x20;
+Validatoren im Kuijra-Netzwerk können zum Beispiel Abstimmungen über Kujira-Preisorakel verpassen. Es ist wichtig, mit Validatoren zu arbeiten, die verpasste Abstimmungen minimieren. Dies wird ebenfalls mit einer weniger strengen Strafe von 0,01% der eingesetzten Positionen des Validators und jedes Delegators bestraft&#x20;
 
 
 
