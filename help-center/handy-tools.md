@@ -1,3 +1,3 @@
 # 🧰 Handy Tools
 
-Writing is a process.
+Schreiben ist ein Prozess.
