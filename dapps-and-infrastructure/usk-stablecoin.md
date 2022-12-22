@@ -1,3 +1,3 @@
 # 🐎 USK Stablecoin
 
-Perfection takes time.
+Perfektion braucht seine Zeit.
