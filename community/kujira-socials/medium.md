@@ -1,14 +1,14 @@
 # 📰 Medium
 
-Medium is the primary means for the Kujira team to provide formal, detailed blog posts about new products, project events, partnerships, changes in tokenomics, summaries of recent happenings, or anything else of importance that the team wants to communicate in a formal, precise way to the wider community.
+Medium ist das primäre Medium für das Kujira-Team, um formelle, detaillierte Blog-Posts über neue Produkte, Projektveranstaltungen, Partnerschaften, Änderungen in Tokenomics, Zusammenfassungen der jüngsten Ereignisse oder alles andere Wichtige, das das Team auf formelle, präzise Weise der breiteren Gemeinschaft mitteilen möchte, zu veröffentlichen.
 
-The official Medium can be found at [https://medium.com/team-kujira](https://medium.com/team-kujira)
+Das offizielle Medium ist zu finden unter [https://medium.com/team-kujira](https://medium.com/team-kujira)
 
-### Announcements
+### Ankündigungen
 
-One important way we use our Medium is to accompany important announcements/product launches with detailed explanations.
+Eine wichtige Art und Weise, wie wir unser Medium nutzen, besteht darin, wichtige Ankündigungen/Produkteinführungen mit ausführlichen Erklärungen zu begleiten.
 
-Here are a few standout examples:
+Hier sind ein paar herausragende Beispiele:
 
 [ORCA: How to Bid on Liquidations (relevant back on Terra)](https://medium.com/team-kujira/orca-how-to-bid-on-liquidations-e7e6399a8e0d)
 
@@ -52,23 +52,23 @@ Here are a few standout examples:&#x20;
 
 [Withdrawing Assets from FIN](https://medium.com/team-kujira/withdrawing-assets-from-fin-a3e6e3e53709)
 
-### Education
+### Bildung
 
-A companion to another Kujira feature, the Education website, the Kujira Medium is also used to provide detailed articles about important concepts relating to the Kujira product suite.
+Als Pendant zu einer anderen Kujira-Funktion, der Bildungs-Website, wird das Kujira Medium auch genutzt, um detaillierte Artikel über wichtige Konzepte im Zusammenhang mit der Kujira-Produktsuite bereitzustellen.
 
-This is a newer usage of our Medium, but will become more important with time.
+Dies ist eine neuere Nutzung unseres Mediums, wird aber mit der Zeit immer wichtiger werden.
 
-Here are a few standout examples:
+Hier sind ein paar herausragende Beispiele:
 
 [FIN – a DEX to Stand the Test of Time](https://medium.com/team-kujira/fin-a-dex-to-stand-the-test-of-time-6a311e040297)
 
 [Comparing the AMM/Orderbook Hybrid Model to FIN](https://medium.com/team-kujira/comparing-the-new-amm-orderbook-hybrid-model-to-fin-4ee335b89d93)
 
-### Weekly Roundup
+### Wöchentliches Roundup
 
-We have also begun a weekly roundup of Kujira ecosystem activity.
+Wir haben auch eine wöchentliche Übersicht über die Aktivitäten im Kujira-Ökosystem eingeführt.
 
-Past articles can be found below:
+Die bisherigen Artikel finden Sie unten:
 
 [Weekly Roundup by Team Kujira: Episode 1](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-1-b75e68c7c1e)
 
@@ -85,3 +85,6 @@ Past articles can be found below:
 [Weekly Roundup by Team Kujira: Episode 7](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-7-2267f584859f)
 
 [Weekly Roundup by Team Kujira: Episode 8](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-8-8aa443ad464c)
+
+Die deutschen Zusammenfassungen finden Sie unter:
+[KujiGangGermany Medium Account](https://medium.com/@KujiGangGermany)
