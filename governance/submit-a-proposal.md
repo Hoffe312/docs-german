@@ -2,7 +2,7 @@
 Beschreibung: Einreichung eines Vorschlags für die Ausgaben des Gemeinschaftspools
 ---
 
-# 🗄 Vorschlag einreichen
+# 🗄 Antrag einreichen
 
 Reichen Sie einen Vorschlag für Ausgaben für den Gemeinschaftspool zusammen mit einer ersten Anzahlung ein. Die Einzelheiten des Vorschlags müssen in einer JSON-Datei angegeben werden.
 
