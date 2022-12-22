@@ -1,17 +1,17 @@
 # 📬 Telegram
 
-Along with our Discord, Telegram is the primary means of directly communicating with the team (and experienced & friendly chat moderators), asking for support on technical issues, (on occasion **polite** requests or recommendations for new features or modifications to existing features), engaging with the community in a relatively informal setting, or hearing the latest announcements from the team before they go live anywhere else. There are 3 official Telegram chats.&#x20;
+Neben Discord ist Telegram das wichtigste Mittel, um direkt mit dem Team (und den erfahrenen und freundlichen Chat-Moderatoren) zu kommunizieren, um Unterstützung bei technischen Fragen zu erhalten (gelegentlich auch **höfliche** Anfragen oder Empfehlungen für neue Funktionen oder Änderungen an bestehenden Funktionen), um sich mit der Community in einem relativ informellen Rahmen auszutauschen oder um die neuesten Ankündigungen des Teams zu hören, bevor sie irgendwo anders veröffentlicht werden. Es gibt 3 offizielle Telegram-Chats&#x20;
 
-Important note: on Telegram for most crypto projects there are many scammers who impersonate team members & moderators and direct message users who ask for help/support in chats to target them for hacks via social engineering. Team members will never direct message you first. If they message you in private, it will only be after letting you know that they will do so first in chat. Kujira Team members have the tag Team next to their name when they send messages in chat and other moderators have Kujira fren as a tag when they send messages in the chat. _**It is generally recommended that you message moderators or team members yourself first after they ask you to private message them in one of the main chats**_ as pretenders can still attempt to message you in private to deceive you.
+Wichtiger Hinweis: Auf Telegram gibt es bei den meisten Krypto-Projekten viele Betrüger, die sich als Teammitglieder und Moderatoren ausgeben und Nutzer, die in Chats um Hilfe/Unterstützung bitten, direkt anschreiben, um sie durch Social Engineering für Hacks zu gewinnen. Teammitglieder werden Sie niemals zuerst direkt anschreiben. Wenn sie dir eine private Nachricht schicken, dann nur, nachdem sie dir mitgeteilt haben, dass sie dies zuerst im Chat tun werden. Kujira-Team-Mitglieder haben das Tag Team neben ihrem Namen, wenn sie Nachrichten im Chat senden, und andere Moderatoren haben Kujira fren als Tag, wenn sie Nachrichten im Chat senden. Es wird im Allgemeinen empfohlen, Moderatoren oder Teammitgliedern zuerst selbst eine Nachricht zu schicken, nachdem sie dich gebeten haben, ihnen in einem der Hauptchats eine private Nachricht zu schicken**_, da Betrüger immer noch versuchen können, dir eine private Nachricht zu schicken, um dich zu täuschen.
 
-### Main Chat
+### Haupt-Chat
 
-The main Telegram chat focuses on community support, community engagement, fundamental analysis of the Kujira Protocol, and alpha leaks. No price discussion is allowed in the main chat and we strongly encourage it to be kept to an absolute minimum. Memes are of course allowed and encouraged. Accessed here: [https://t.me/team\_kujira](https://t.me/team\_kujira)
+Der Haupt-Telegramm-Chat konzentriert sich auf die Unterstützung der Community, das Engagement der Community, die grundlegende Analyse des Kujira-Protokolls und Alpha-Leaks. Im Hauptchat sind keine Preisdiskussionen erlaubt und wir bitten Sie dringend, diese auf ein absolutes Minimum zu beschränken. Memes sind natürlich erlaubt und erwünscht. Hier zu finden: [https://t.me/team\_kujira](https://t.me/team\_kujira)
 
-### Price Chat
+### Preis-Chat
 
-A more informal Telegram chat that allows discussions about tokenomics/price action/etc. Accessed here: [https://t.me/KUJI\_Price\_Discussion](https://t.me/KUJI\_Price\_Discussion)
+Ein eher informeller Telegram-Chat, der Diskussionen über Tokenomics/Preisaktionen/etc. ermöglicht. Der Zugang erfolgt hier: [https://t.me/KUJI\_Price\_Discussion](https://t.me/KUJI\_Price\_Discussion)
 
-### Announcements Channel
+### Ankündigungs-Kanal
 
-A Telegram channel containing new announcements from Team Kujira about the Protocol Suite and Kujira ecosystem. Accessed here: [https://t.me/kujira\_announcements](https://t.me/kujira\_announcements)
+Ein Telegram-Kanal mit neuen Ankündigungen vom Team Kujira über die Protocol Suite und das Kujira-Ökosystem. Hier zu finden: [https://t.me/kujira\_announcements](https://t.me/kujira\_announcements)
