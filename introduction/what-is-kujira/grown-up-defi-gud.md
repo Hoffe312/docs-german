@@ -4,7 +4,7 @@ description: >-
   sondern auf den Aufbau des Neuen
 ---
 
-# 🎓 Erwachsenes DeFi oder im englischen Grown-Up DeFi (GUD)
+# 🎓 Grown-Up DeFi (GUD)
 
 Kujira will DeFi auf folgende Weise verändern:
 
