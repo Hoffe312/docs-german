@@ -1,12 +1,12 @@
 ---
-description: Standard colors used across the Kujira dApps.
+Beschreibung: Standard Farben, welche im Ökosystem verwendet werden
 ---
 
-# Colors
+# Farben
 
-### Primary Colors
+### Primäre Farben
 
-Primary UI element colors across Kujira dApps
+Primäre Farben der UI-Elemente in allen Kujira dApps
 
 | HEX       | Name       | Preview                                                                    |
 | --------- | ---------- | -------------------------------------------------------------------------- |
@@ -18,9 +18,9 @@ Primary UI element colors across Kujira dApps
 | `#1e92e6` | Blue       | <img src="../.gitbook/assets/color-blue.png" alt="" data-size="line">      |
 | `#1c6599` | Dark Blue  | <img src="../.gitbook/assets/color-darkblue.png" alt="" data-size="line">  |
 
-### Notification Colors
+### Benachrichtigungsfarben
 
-Used for warnings and notifications
+Wird für Warnungen und Benachrichtigungen verwendet
 
 | HEX       | Name             | Preview                                                                 |
 | --------- | ---------------- | ----------------------------------------------------------------------- |
@@ -28,7 +28,7 @@ Used for warnings and notifications
 | `#f57c00` | Orange (warning) | <img src="../.gitbook/assets/color-orange.png" alt="" data-size="line"> |
 | `#00c853` | Green (success)  | <img src="../.gitbook/assets/color-green.png" alt="" data-size="line">  |
 
-### Gradients
+### Farbverläufe
 
 | Start     | End       | Preview                                                                  |
 | --------- | --------- | ------------------------------------------------------------------------ |
