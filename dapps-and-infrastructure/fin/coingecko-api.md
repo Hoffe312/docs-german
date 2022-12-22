@@ -1,14 +1,14 @@
 # 🔘 Coingecko API
 
-This documents the REST endpoints to query live data from the FIN markets for our Coingecko integration.
+Dies dokumentiert die REST-Endpunkte zur Abfrage von Live-Daten aus den FIN-Märkten für unsere Coingecko-Integration.
 
 ### GET \`[https://api.kujira.app/api/coingecko/pairs](https://api.kujira.app/api/coingecko/pairs)\`
 
-#### Query options
+#### Abfrageoptionen
 
 None
 
-#### Sample Response
+#### Beispielhafte Antwort
 
 ```json
 {
@@ -25,12 +25,12 @@ None
 
 ### GET \`[https://api.kujira.app/api/coingecko/orderbook](https://api.kujira.app/api/coingecko/orderbook)\`
 
-#### Query Options
+#### Anfrageoptionen
 
 * \*`ticker_id` eg `ticker_id=KUJI_axlUSDC`
 * `depth` eg `depth=200` - total number of prices retrieved (equal number either side of the spread)
 
-#### Sample Reponse
+#### Beispielhafte Antwort
 
 ```json
 {
@@ -69,11 +69,11 @@ None
 
 ### GET \`[https://api.kujira.app/api/coingecko/tickers](https://api.kujira.app/api/coingecko/tickers)\`
 
-#### Query Options&#x20;
+#### Abfrage Optionen&#x20;
 
 None
 
-#### Sample Response
+#### Beispielhafte Antwort
 
 ```json
 {
