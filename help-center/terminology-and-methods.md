@@ -1,3 +1,3 @@
-# 📚 Terminology & Methods
+# 📚 Terminologie & Methoden
 
-Perfection takes time.
+Perfektion braucht Weile.
