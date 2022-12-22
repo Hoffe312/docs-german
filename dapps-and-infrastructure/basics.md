@@ -1,27 +1,27 @@
 ---
-description: Helpful tips and tricks for navigating Kujira's 1st party products
+Beschreibung: Hilfreiche Tipps und Tricks für die Navigation in Kujiras 1st-Party-Produkten
 ---
 
 # 🔢 Basics
 
-### Overview
+### Übersicht
 
-We have included a helpful primer meant to make using our decentralized applications (dApps) easier for our users. Here are some basic tips and tricks that you can use to make the most of your experience on Kujira.
+Wir haben eine hilfreiche Übersicht erstellt, um unseren Nutzern die Verwendung unserer dezentralen Anwendungen (dApps) zu erleichtern. Hier finden Sie einige grundlegende Tipps und Tricks, mit denen Sie das Beste aus Ihrer Erfahrung mit Kujira machen können.
 
-### Connecting Your Wallet
+### Verbinden Sie Ihr Wallet
 
-When navigating to any of our dApps, it is important to connect your wallet to be able to use the applications. By connecting your wallet, you grant permission to our applications to interact with your wallet which allows you to start using your funds to perform transactions. All transactions must be initiated and approved by users. You can find the connect wallet symbol on the top right corner of the screen on all of our dApp webpages (except on FINDER which does not require you to connect your wallet).&#x20;
+Wenn Sie zu einer unserer dApps navigieren, ist es wichtig, dass Sie Ihre Wallet verbinden, um die Anwendungen nutzen zu können. Indem Sie Ihre Wallet verbinden, erteilen Sie unseren Anwendungen die Erlaubnis, mit Ihrer Wallet zu interagieren, so dass Sie Ihr Guthaben zur Durchführung von Transaktionen verwenden können. Alle Transaktionen müssen von den Nutzern initiiert und genehmigt werden. Sie finden das Symbol zum Verbinden der Brieftasche in der oberen rechten Ecke des Bildschirms auf allen unseren dApp-Webseiten (außer auf FINDER, wo Sie Ihre Brieftasche nicht verbinden müssen).&#x20;
 
-### Funding your Wallet using Kado
+### Wallet aufladen mit Kado
 
-One convenient feature that has been added to [blue.kujira.app](https://blue.kujira.app/) is the ability to add funds directly to the Kujira network using Kado Money, an on-ramp for directly moving funds into the Kujira ecosystem. On BLUE, simply connect your wallet as explained above, and then hover over your wallet address in the same place where you just connected it. Then at the bottom of your listed wallet balances, you should see a white K on a blue background and the writing Fund with Kado. Clicking on that text will bring up a handy little pop up that allows you to directly send money from your bank account to Kujira via Kado. You can sign up for Kado [here](https://www.kado.money/) or directly in the Kujira app as a part of this process.
+Eine praktische Funktion, die zu [blue.kujira.app](https://blue.kujira.app/) hinzugefügt wurde, ist die Möglichkeit, mit Kado Money direkt Geld in das Kujira-Netzwerk einzuzahlen. Verbinden Sie auf BLUE einfach Ihr Wallet wie oben beschrieben und fahren Sie dann mit dem Mauszeiger über Ihre Wallet-Adresse an der gleichen Stelle, an der Sie sie gerade verbunden haben. Dann sollten Sie am unteren Rand Ihrer aufgelisteten Wallet-Salden ein weißes K auf blauem Hintergrund und den Schriftzug Fund with Kado sehen. Wenn du auf diesen Text klickst, erscheint ein praktisches kleines Pop-up-Fenster, mit dem du direkt Geld von deinem Bankkonto über Kado an Kujira senden kannst. Sie können sich für Kado [hier](https://www.kado.money/) oder direkt in der Kujira-App als Teil dieses Prozesses anmelden.
 
-### Changing Gas
+### Gas wechseln
 
-One very important aspect of the Kuijra blockchain is that all tokens on the network are native tokens. This means that gas fees may be paid in any token. If you are trying to accumulate USK, KUJI, or some other token, there is no need to spend USK, KUJI, etc. for every transaction on the chain.&#x20;
+Ein sehr wichtiger Aspekt der Kuijra-Blockchain ist, dass alle Token im Netzwerk native Token sind. Das bedeutet, dass die Gasgebühren in jedem Token bezahlt werden können. Wenn Sie versuchen, USK, KUJI oder ein anderes Token zu akkumulieren, müssen Sie nicht für jede Transaktion auf der Kette USK, KUJI usw. ausgeben;
 
-To change the token used to pay gas fees, simply hover above your wallet address on the top right corner of the webpage and select + click on a token that you wish to use for gas fees. Once successful, the desired gas fee token should display with a small gas pump symbol next to it.
+Um den Token zu ändern, der für die Zahlung der Gasgebühren verwendet wird, fahren Sie einfach mit dem Mauszeiger über Ihre Wallet-Adresse in der oberen rechten Ecke der Webseite und wählen Sie einen Token aus, den Sie für die Gasgebühren verwenden möchten, und klicken Sie darauf. Sobald Sie erfolgreich waren, sollte der gewünschte Token mit einem kleinen Zapfsäulensymbol daneben angezeigt werden.
 
-### Navigating Between dApps
+### Navigieren zwischen dApps
 
-For ease of use, we have added a small grid at the top right of all of our dApps, next to the wallet. This allows for seamless navigation between all of our dApps right in one ago.&#x20;
+Um die Nutzung zu vereinfachen, haben wir ein kleines Raster oben rechts in allen unseren dApps neben der Geldbörse eingefügt. Dies ermöglicht eine nahtlose Navigation zwischen all unseren dApps auf einen Blick&#x20;
